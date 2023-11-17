@@ -1,0 +1,3198 @@
+Benchmark started on Mon Feb 28 16:24:19 EET 2022 in dungani
+Dimension M: 256
+Adjusted dimension M: 256
+Dimension N: 256
+Adjusted dimension N: 256
+Dimension K: 256
+Adjusted dimension K: 256
+>>>> Begin of record <<<<
+Block dimensions: 32x32
+Grid dimensions : 8x8
+GPU kernel version: cublas
+Elapsed time: 152.560837 ms
+Performance:  21.994132 Gflop/s
+>>>> End of record <<<<
+Dimension M: 256
+Adjusted dimension M: 256
+Dimension N: 256
+Adjusted dimension N: 256
+Dimension K: 512
+Adjusted dimension K: 512
+>>>> Begin of record <<<<
+Block dimensions: 32x32
+Grid dimensions : 8x8
+GPU kernel version: cublas
+Elapsed time: 152.593369 ms
+Performance:  43.978886 Gflop/s
+>>>> End of record <<<<
+Dimension M: 256
+Adjusted dimension M: 256
+Dimension N: 256
+Adjusted dimension N: 256
+Dimension K: 1024
+Adjusted dimension K: 1024
+>>>> Begin of record <<<<
+Block dimensions: 32x32
+Grid dimensions : 8x8
+GPU kernel version: cublas
+Elapsed time: 160.921799 ms
+Performance:  83.405560 Gflop/s
+>>>> End of record <<<<
+Dimension M: 256
+Adjusted dimension M: 256
+Dimension N: 256
+Adjusted dimension N: 256
+Dimension K: 2048
+Adjusted dimension K: 2048
+>>>> Begin of record <<<<
+Block dimensions: 32x32
+Grid dimensions : 8x8
+GPU kernel version: cublas
+Elapsed time: 175.282715 ms
+Performance:  153.144283 Gflop/s
+>>>> End of record <<<<
+Dimension M: 256
+Adjusted dimension M: 256
+Dimension N: 512
+Adjusted dimension N: 512
+Dimension K: 256
+Adjusted dimension K: 256
+>>>> Begin of record <<<<
+Block dimensions: 32x32
+Grid dimensions : 16x8
+GPU kernel version: cublas
+Elapsed time: 143.295197 ms
+Performance:  46.832598 Gflop/s
+>>>> End of record <<<<
+Dimension M: 256
+Adjusted dimension M: 256
+Dimension N: 512
+Adjusted dimension N: 512
+Dimension K: 512
+Adjusted dimension K: 512
+>>>> Begin of record <<<<
+Block dimensions: 32x32
+Grid dimensions : 16x8
+GPU kernel version: cublas
+Elapsed time: 169.256134 ms
+Performance:  79.298590 Gflop/s
+>>>> End of record <<<<
+Dimension M: 256
+Adjusted dimension M: 256
+Dimension N: 512
+Adjusted dimension N: 512
+Dimension K: 1024
+Adjusted dimension K: 1024
+>>>> Begin of record <<<<
+Block dimensions: 32x32
+Grid dimensions : 16x8
+GPU kernel version: cublas
+Elapsed time: 174.677567 ms
+Performance:  153.674831 Gflop/s
+>>>> End of record <<<<
+Dimension M: 256
+Adjusted dimension M: 256
+Dimension N: 512
+Adjusted dimension N: 512
+Dimension K: 2048
+Adjusted dimension K: 2048
+>>>> Begin of record <<<<
+Block dimensions: 32x32
+Grid dimensions : 16x8
+GPU kernel version: cublas
+Elapsed time: 222.655746 ms
+Performance:  241.121516 Gflop/s
+>>>> End of record <<<<
+Dimension M: 256
+Adjusted dimension M: 256
+Dimension N: 1024
+Adjusted dimension N: 1024
+Dimension K: 256
+Adjusted dimension K: 256
+>>>> Begin of record <<<<
+Block dimensions: 32x32
+Grid dimensions : 32x8
+GPU kernel version: cublas
+Elapsed time: 146.191711 ms
+Performance:  91.809397 Gflop/s
+>>>> End of record <<<<
+Dimension M: 256
+Adjusted dimension M: 256
+Dimension N: 1024
+Adjusted dimension N: 1024
+Dimension K: 512
+Adjusted dimension K: 512
+>>>> Begin of record <<<<
+Block dimensions: 32x32
+Grid dimensions : 32x8
+GPU kernel version: cublas
+Elapsed time: 163.459579 ms
+Performance:  164.221306 Gflop/s
+>>>> End of record <<<<
+Dimension M: 256
+Adjusted dimension M: 256
+Dimension N: 1024
+Adjusted dimension N: 1024
+Dimension K: 1024
+Adjusted dimension K: 1024
+>>>> Begin of record <<<<
+Block dimensions: 32x32
+Grid dimensions : 32x8
+GPU kernel version: cublas
+Elapsed time: 175.115967 ms
+Performance:  306.580218 Gflop/s
+>>>> End of record <<<<
+Dimension M: 256
+Adjusted dimension M: 256
+Dimension N: 1024
+Adjusted dimension N: 1024
+Dimension K: 2048
+Adjusted dimension K: 2048
+>>>> Begin of record <<<<
+Block dimensions: 32x32
+Grid dimensions : 32x8
+GPU kernel version: cublas
+Elapsed time: 206.441818 ms
+Performance:  520.118372 Gflop/s
+>>>> End of record <<<<
+Dimension M: 256
+Adjusted dimension M: 256
+Dimension N: 2048
+Adjusted dimension N: 2048
+Dimension K: 256
+Adjusted dimension K: 256
+>>>> Begin of record <<<<
+Block dimensions: 32x32
+Grid dimensions : 64x8
+GPU kernel version: cublas
+Dimension M: 256
+Adjusted dimension M: 256
+Dimension N: 2048
+Adjusted dimension N: 2048
+Dimension K: 512
+Adjusted dimension K: 512
+>>>> Begin of record <<<<
+Block dimensions: 32x32
+Grid dimensions : 64x8
+GPU kernel version: cublas
+Dimension M: 256
+Adjusted dimension M: 256
+Dimension N: 2048
+Adjusted dimension N: 2048
+Dimension K: 1024
+Adjusted dimension K: 1024
+>>>> Begin of record <<<<
+Block dimensions: 32x32
+Grid dimensions : 64x8
+GPU kernel version: cublas
+Dimension M: 256
+Adjusted dimension M: 256
+Dimension N: 2048
+Adjusted dimension N: 2048
+Dimension K: 2048
+Adjusted dimension K: 2048
+>>>> Begin of record <<<<
+Block dimensions: 32x32
+Grid dimensions : 64x8
+GPU kernel version: cublas
+Dimension M: 512
+Adjusted dimension M: 512
+Dimension N: 256
+Adjusted dimension N: 256
+Dimension K: 256
+Adjusted dimension K: 256
+>>>> Begin of record <<<<
+Block dimensions: 32x32
+Grid dimensions : 8x16
+GPU kernel version: cublas
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+Elapsed time: 142.697083 ms
+Performance:  47.028897 Gflop/s
+>>>> End of record <<<<
+Dimension M: 512
+Adjusted dimension M: 512
+Dimension N: 256
+Adjusted dimension N: 256
+Dimension K: 512
+Adjusted dimension K: 512
+>>>> Begin of record <<<<
+Block dimensions: 32x32
+Grid dimensions : 8x16
+GPU kernel version: cublas
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+Elapsed time: 133.594589 ms
+Performance:  100.466440 Gflop/s
+>>>> End of record <<<<
+Dimension M: 512
+Adjusted dimension M: 512
+Dimension N: 256
+Adjusted dimension N: 256
+Dimension K: 1024
+Adjusted dimension K: 1024
+>>>> Begin of record <<<<
+Block dimensions: 32x32
+Grid dimensions : 8x16
+GPU kernel version: cublas
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+Elapsed time: 138.117828 ms
+Performance:  194.352503 Gflop/s
+>>>> End of record <<<<
+Dimension M: 512
+Adjusted dimension M: 512
+Dimension N: 256
+Adjusted dimension N: 256
+Dimension K: 2048
+Adjusted dimension K: 2048
+>>>> Begin of record <<<<
+Block dimensions: 32x32
+Grid dimensions : 8x16
+GPU kernel version: cublas
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+Elapsed time: 135.708771 ms
+Performance:  395.605169 Gflop/s
+>>>> End of record <<<<
+Dimension M: 512
+Adjusted dimension M: 512
+Dimension N: 512
+Adjusted dimension N: 512
+Dimension K: 256
+Adjusted dimension K: 256
+>>>> Begin of record <<<<
+Block dimensions: 32x32
+Grid dimensions : 16x16
+GPU kernel version: cublas
+Elapsed time: 143.653595 ms
+Performance:  93.431514 Gflop/s
+>>>> End of record <<<<
+Dimension M: 512
+Adjusted dimension M: 512
+Dimension N: 512
+Adjusted dimension N: 512
+Dimension K: 512
+Adjusted dimension K: 512
+>>>> Begin of record <<<<
+Block dimensions: 32x32
+Grid dimensions : 16x16
+GPU kernel version: cublas
+Elapsed time: 160.559769 ms
+Performance:  167.187246 Gflop/s
+>>>> End of record <<<<
+Dimension M: 512
+Adjusted dimension M: 512
+Dimension N: 512
+Adjusted dimension N: 512
+Dimension K: 1024
+Adjusted dimension K: 1024
+>>>> Begin of record <<<<
+Block dimensions: 32x32
+Grid dimensions : 16x16
+GPU kernel version: cublas
+Elapsed time: 181.801666 ms
+Performance:  295.305826 Gflop/s
+>>>> End of record <<<<
+Dimension M: 512
+Adjusted dimension M: 512
+Dimension N: 512
+Adjusted dimension N: 512
+Dimension K: 2048
+Adjusted dimension K: 2048
+>>>> Begin of record <<<<
+Block dimensions: 32x32
+Grid dimensions : 16x16
+GPU kernel version: cublas
+Elapsed time: 204.341125 ms
+Performance:  525.465357 Gflop/s
+>>>> End of record <<<<
+Dimension M: 512
+Adjusted dimension M: 512
+Dimension N: 1024
+Adjusted dimension N: 1024
+Dimension K: 256
+Adjusted dimension K: 256
+>>>> Begin of record <<<<
+Block dimensions: 32x32
+Grid dimensions : 32x16
+GPU kernel version: cublas
+Elapsed time: 162.055527 ms
+Performance:  165.644123 Gflop/s
+>>>> End of record <<<<
+Dimension M: 512
+Adjusted dimension M: 512
+Dimension N: 1024
+Adjusted dimension N: 1024
+Dimension K: 512
+Adjusted dimension K: 512
+>>>> Begin of record <<<<
+Block dimensions: 32x32
+Grid dimensions : 32x16
+GPU kernel version: cublas
+Elapsed time: 169.407257 ms
+Performance:  316.911401 Gflop/s
+>>>> End of record <<<<
+Dimension M: 512
+Adjusted dimension M: 512
+Dimension N: 1024
+Adjusted dimension N: 1024
+Dimension K: 1024
+Adjusted dimension K: 1024
+>>>> Begin of record <<<<
+Block dimensions: 32x32
+Grid dimensions : 32x16
+GPU kernel version: cublas
+Elapsed time: 197.845062 ms
+Performance:  542.718535 Gflop/s
+>>>> End of record <<<<
+Dimension M: 512
+Adjusted dimension M: 512
+Dimension N: 1024
+Adjusted dimension N: 1024
+Dimension K: 2048
+Adjusted dimension K: 2048
+>>>> Begin of record <<<<
+Block dimensions: 32x32
+Grid dimensions : 32x16
+GPU kernel version: cublas
+Elapsed time: 251.644455 ms
+Performance:  853.380079 Gflop/s
+>>>> End of record <<<<
+Dimension M: 512
+Adjusted dimension M: 512
+Dimension N: 2048
+Adjusted dimension N: 2048
+Dimension K: 256
+Adjusted dimension K: 256
+>>>> Begin of record <<<<
+Block dimensions: 32x32
+Grid dimensions : 64x16
+GPU kernel version: cublas
+Dimension M: 512
+Adjusted dimension M: 512
+Dimension N: 2048
+Adjusted dimension N: 2048
+Dimension K: 512
+Adjusted dimension K: 512
+>>>> Begin of record <<<<
+Block dimensions: 32x32
+Grid dimensions : 64x16
+GPU kernel version: cublas
+Dimension M: 512
+Adjusted dimension M: 512
+Dimension N: 2048
+Adjusted dimension N: 2048
+Dimension K: 1024
+Adjusted dimension K: 1024
+>>>> Begin of record <<<<
+Block dimensions: 32x32
+Grid dimensions : 64x16
+GPU kernel version: cublas
+Dimension M: 512
+Adjusted dimension M: 512
+Dimension N: 2048
+Adjusted dimension N: 2048
+Dimension K: 2048
+Adjusted dimension K: 2048
+>>>> Begin of record <<<<
+Block dimensions: 32x32
+Grid dimensions : 64x16
+GPU kernel version: cublas
+Dimension M: 1024
+Adjusted dimension M: 1024
+Dimension N: 256
+Adjusted dimension N: 256
+Dimension K: 256
+Adjusted dimension K: 256
+>>>> Begin of record <<<<
+Block dimensions: 32x32
+Grid dimensions : 8x32
+GPU kernel version: cublas
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+Elapsed time: 145.224258 ms
+Performance:  92.421011 Gflop/s
+>>>> End of record <<<<
+Dimension M: 1024
+Adjusted dimension M: 1024
+Dimension N: 256
+Adjusted dimension N: 256
+Dimension K: 512
+Adjusted dimension K: 512
+>>>> Begin of record <<<<
+Block dimensions: 32x32
+Grid dimensions : 8x32
+GPU kernel version: cublas
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+Elapsed time: 144.691910 ms
+Performance:  185.522091 Gflop/s
+>>>> End of record <<<<
+Dimension M: 1024
+Adjusted dimension M: 1024
+Dimension N: 256
+Adjusted dimension N: 256
+Dimension K: 1024
+Adjusted dimension K: 1024
+>>>> Begin of record <<<<
+Block dimensions: 32x32
+Grid dimensions : 8x32
+GPU kernel version: cublas
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+Elapsed time: 147.625702 ms
+Performance:  363.670354 Gflop/s
+>>>> End of record <<<<
+Dimension M: 1024
+Adjusted dimension M: 1024
+Dimension N: 256
+Adjusted dimension N: 256
+Dimension K: 2048
+Adjusted dimension K: 2048
+>>>> Begin of record <<<<
+Block dimensions: 32x32
+Grid dimensions : 8x32
+GPU kernel version: cublas
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+Elapsed time: 137.495331 ms
+Performance:  780.929663 Gflop/s
+>>>> End of record <<<<
+Dimension M: 1024
+Adjusted dimension M: 1024
+Dimension N: 512
+Adjusted dimension N: 512
+Dimension K: 256
+Adjusted dimension K: 256
+>>>> Begin of record <<<<
+Block dimensions: 32x32
+Grid dimensions : 16x32
+GPU kernel version: cublas
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+Elapsed time: 146.311356 ms
+Performance:  183.468641 Gflop/s
+>>>> End of record <<<<
+Dimension M: 1024
+Adjusted dimension M: 1024
+Dimension N: 512
+Adjusted dimension N: 512
+Dimension K: 512
+Adjusted dimension K: 512
+>>>> Begin of record <<<<
+Block dimensions: 32x32
+Grid dimensions : 16x32
+GPU kernel version: cublas
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+Elapsed time: 132.029602 ms
+Performance:  406.629198 Gflop/s
+>>>> End of record <<<<
+Dimension M: 1024
+Adjusted dimension M: 1024
+Dimension N: 512
+Adjusted dimension N: 512
+Dimension K: 1024
+Adjusted dimension K: 1024
+>>>> Begin of record <<<<
+Block dimensions: 32x32
+Grid dimensions : 16x32
+GPU kernel version: cublas
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+Elapsed time: 139.579422 ms
+Performance:  769.269430 Gflop/s
+>>>> End of record <<<<
+Dimension M: 1024
+Adjusted dimension M: 1024
+Dimension N: 512
+Adjusted dimension N: 512
+Dimension K: 2048
+Adjusted dimension K: 2048
+>>>> Begin of record <<<<
+Block dimensions: 32x32
+Grid dimensions : 16x32
+GPU kernel version: cublas
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+Elapsed time: 146.118042 ms
+Performance:  1469.690956 Gflop/s
+>>>> End of record <<<<
+Dimension M: 1024
+Adjusted dimension M: 1024
+Dimension N: 1024
+Adjusted dimension N: 1024
+Dimension K: 256
+Adjusted dimension K: 256
+>>>> Begin of record <<<<
+Block dimensions: 32x32
+Grid dimensions : 32x32
+GPU kernel version: cublas
+Elapsed time: 176.902756 ms
+Performance:  303.483634 Gflop/s
+>>>> End of record <<<<
+Dimension M: 1024
+Adjusted dimension M: 1024
+Dimension N: 1024
+Adjusted dimension N: 1024
+Dimension K: 512
+Adjusted dimension K: 512
+>>>> Begin of record <<<<
+Block dimensions: 32x32
+Grid dimensions : 32x32
+GPU kernel version: cublas
+Elapsed time: 196.514435 ms
+Performance:  546.393360 Gflop/s
+>>>> End of record <<<<
+Dimension M: 1024
+Adjusted dimension M: 1024
+Dimension N: 1024
+Adjusted dimension N: 1024
+Dimension K: 1024
+Adjusted dimension K: 1024
+>>>> Begin of record <<<<
+Block dimensions: 32x32
+Grid dimensions : 32x32
+GPU kernel version: cublas
+Elapsed time: 245.861633 ms
+Performance:  873.452120 Gflop/s
+>>>> End of record <<<<
+Dimension M: 1024
+Adjusted dimension M: 1024
+Dimension N: 1024
+Adjusted dimension N: 1024
+Dimension K: 2048
+Adjusted dimension K: 2048
+>>>> Begin of record <<<<
+Block dimensions: 32x32
+Grid dimensions : 32x32
+GPU kernel version: cublas
+Elapsed time: 336.900787 ms
+Performance:  1274.846322 Gflop/s
+>>>> End of record <<<<
+Dimension M: 1024
+Adjusted dimension M: 1024
+Dimension N: 2048
+Adjusted dimension N: 2048
+Dimension K: 256
+Adjusted dimension K: 256
+>>>> Begin of record <<<<
+Block dimensions: 32x32
+Grid dimensions : 64x32
+GPU kernel version: cublas
+Dimension M: 1024
+Adjusted dimension M: 1024
+Dimension N: 2048
+Adjusted dimension N: 2048
+Dimension K: 512
+Adjusted dimension K: 512
+>>>> Begin of record <<<<
+Block dimensions: 32x32
+Grid dimensions : 64x32
+GPU kernel version: cublas
+Dimension M: 1024
+Adjusted dimension M: 1024
+Dimension N: 2048
+Adjusted dimension N: 2048
+Dimension K: 1024
+Adjusted dimension K: 1024
+>>>> Begin of record <<<<
+Block dimensions: 32x32
+Grid dimensions : 64x32
+GPU kernel version: cublas
+Dimension M: 1024
+Adjusted dimension M: 1024
+Dimension N: 2048
+Adjusted dimension N: 2048
+Dimension K: 2048
+Adjusted dimension K: 2048
+>>>> Begin of record <<<<
+Block dimensions: 32x32
+Grid dimensions : 64x32
+GPU kernel version: cublas
+Dimension M: 2048
+Adjusted dimension M: 2048
+Dimension N: 256
+Adjusted dimension N: 256
+Dimension K: 256
+Adjusted dimension K: 256
+>>>> Begin of record <<<<
+Block dimensions: 32x32
+Grid dimensions : 8x64
+GPU kernel version: cublas
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+Elapsed time: 148.531845 ms
+Performance:  180.725861 Gflop/s
+>>>> End of record <<<<
+Dimension M: 2048
+Adjusted dimension M: 2048
+Dimension N: 256
+Adjusted dimension N: 256
+Dimension K: 512
+Adjusted dimension K: 512
+>>>> Begin of record <<<<
+Block dimensions: 32x32
+Grid dimensions : 8x64
+GPU kernel version: cublas
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+Elapsed time: 136.725189 ms
+Performance:  392.664230 Gflop/s
+>>>> End of record <<<<
+Dimension M: 2048
+Adjusted dimension M: 2048
+Dimension N: 256
+Adjusted dimension N: 256
+Dimension K: 1024
+Adjusted dimension K: 1024
+>>>> Begin of record <<<<
+Block dimensions: 32x32
+Grid dimensions : 8x64
+GPU kernel version: cublas
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+Elapsed time: 145.199036 ms
+Performance:  739.496526 Gflop/s
+>>>> End of record <<<<
+Dimension M: 2048
+Adjusted dimension M: 2048
+Dimension N: 256
+Adjusted dimension N: 256
+Dimension K: 2048
+Adjusted dimension K: 2048
+>>>> Begin of record <<<<
+Block dimensions: 32x32
+Grid dimensions : 8x64
+GPU kernel version: cublas
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+Elapsed time: 136.596313 ms
+Performance:  1572.138803 Gflop/s
+>>>> End of record <<<<
+Dimension M: 2048
+Adjusted dimension M: 2048
+Dimension N: 512
+Adjusted dimension N: 512
+Dimension K: 256
+Adjusted dimension K: 256
+>>>> Begin of record <<<<
+Block dimensions: 32x32
+Grid dimensions : 16x64
+GPU kernel version: cublas
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+Elapsed time: 142.942810 ms
+Performance:  375.584412 Gflop/s
+>>>> End of record <<<<
+Dimension M: 2048
+Adjusted dimension M: 2048
+Dimension N: 512
+Adjusted dimension N: 512
+Dimension K: 512
+Adjusted dimension K: 512
+>>>> Begin of record <<<<
+Block dimensions: 32x32
+Grid dimensions : 16x64
+GPU kernel version: cublas
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+Elapsed time: 137.032700 ms
+Performance:  783.566132 Gflop/s
+>>>> End of record <<<<
+Dimension M: 2048
+Adjusted dimension M: 2048
+Dimension N: 512
+Adjusted dimension N: 512
+Dimension K: 1024
+Adjusted dimension K: 1024
+>>>> Begin of record <<<<
+Block dimensions: 32x32
+Grid dimensions : 16x64
+GPU kernel version: cublas
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+Elapsed time: 146.658661 ms
+Performance:  1464.273324 Gflop/s
+>>>> End of record <<<<
+Dimension M: 2048
+Adjusted dimension M: 2048
+Dimension N: 512
+Adjusted dimension N: 512
+Dimension K: 2048
+Adjusted dimension K: 2048
+>>>> Begin of record <<<<
+Block dimensions: 32x32
+Grid dimensions : 16x64
+GPU kernel version: cublas
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+Elapsed time: 145.802399 ms
+Performance:  2945.745293 Gflop/s
+>>>> End of record <<<<
+Dimension M: 2048
+Adjusted dimension M: 2048
+Dimension N: 1024
+Adjusted dimension N: 1024
+Dimension K: 256
+Adjusted dimension K: 256
+>>>> Begin of record <<<<
+Block dimensions: 32x32
+Grid dimensions : 32x64
+GPU kernel version: cublas
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+Elapsed time: 133.854309 ms
+Performance:  802.172027 Gflop/s
+>>>> End of record <<<<
+Dimension M: 2048
+Adjusted dimension M: 2048
+Dimension N: 1024
+Adjusted dimension N: 1024
+Dimension K: 512
+Adjusted dimension K: 512
+>>>> Begin of record <<<<
+Block dimensions: 32x32
+Grid dimensions : 32x64
+GPU kernel version: cublas
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+Elapsed time: 133.340668 ms
+Performance:  1610.524144 Gflop/s
+>>>> End of record <<<<
+Dimension M: 2048
+Adjusted dimension M: 2048
+Dimension N: 1024
+Adjusted dimension N: 1024
+Dimension K: 1024
+Adjusted dimension K: 1024
+>>>> Begin of record <<<<
+Block dimensions: 32x32
+Grid dimensions : 32x64
+GPU kernel version: cublas
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+Elapsed time: 149.247681 ms
+Performance:  2877.744751 Gflop/s
+>>>> End of record <<<<
+Dimension M: 2048
+Adjusted dimension M: 2048
+Dimension N: 1024
+Adjusted dimension N: 1024
+Dimension K: 2048
+Adjusted dimension K: 2048
+>>>> Begin of record <<<<
+Block dimensions: 32x32
+Grid dimensions : 32x64
+GPU kernel version: cublas
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+ ** On entry to SGEMM  parameter number 13 had an illegal value
+Elapsed time: 140.928955 ms
+Performance:  6095.223361 Gflop/s
+>>>> End of record <<<<
+Dimension M: 2048
+Adjusted dimension M: 2048
+Dimension N: 2048
+Adjusted dimension N: 2048
+Dimension K: 256
+Adjusted dimension K: 256
+>>>> Begin of record <<<<
+Block dimensions: 32x32
+Grid dimensions : 64x64
+GPU kernel version: cublas
+Elapsed time: 250.147003 ms
+Performance:  858.488657 Gflop/s
+>>>> End of record <<<<
+Dimension M: 2048
+Adjusted dimension M: 2048
+Dimension N: 2048
+Adjusted dimension N: 2048
+Dimension K: 512
+Adjusted dimension K: 512
+>>>> Begin of record <<<<
+Block dimensions: 32x32
+Grid dimensions : 64x64
+GPU kernel version: cublas
+Elapsed time: 311.165955 ms
+Performance:  1380.281883 Gflop/s
+>>>> End of record <<<<
+Dimension M: 2048
+Adjusted dimension M: 2048
+Dimension N: 2048
+Adjusted dimension N: 2048
+Dimension K: 1024
+Adjusted dimension K: 1024
+>>>> Begin of record <<<<
+Block dimensions: 32x32
+Grid dimensions : 64x64
+GPU kernel version: cublas
+Elapsed time: 456.629852 ms
+Performance:  1881.159225 Gflop/s
+>>>> End of record <<<<
+Dimension M: 2048
+Adjusted dimension M: 2048
+Dimension N: 2048
+Adjusted dimension N: 2048
+Dimension K: 2048
+Adjusted dimension K: 2048
+>>>> Begin of record <<<<
+Block dimensions: 32x32
+Grid dimensions : 64x64
+GPU kernel version: cublas
+Elapsed time: 731.641479 ms
+Performance:  2348.126735 Gflop/s
+>>>> End of record <<<<
+Benchmark ended on Mon Feb 28 16:34:23 EET 2022 in dungani

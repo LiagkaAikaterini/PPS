@@ -1,0 +1,15 @@
+Benchmark started on Mon Feb 28 16:23:01 EET 2022 in dungani
+Dimension M: 2048
+Adjusted dimension M: 2048
+Dimension N: 2048
+Adjusted dimension N: 2048
+Dimension K: 2048
+Adjusted dimension K: 2048
+>>>> Begin of record <<<<
+Block dimensions: 32x32
+Grid dimensions : 64x64
+GPU kernel version: cublas
+Elapsed time: 896.483398 ms
+Performance:  1916.362223 Gflop/s
+>>>> End of record <<<<
+Benchmark ended on Mon Feb 28 16:23:04 EET 2022 in dungani

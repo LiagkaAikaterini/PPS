@@ -1,0 +1,9 @@
+make -C common 
+make[1]: Entering directory `/home/parallel/parlab20/a4/dmm-skeleton/common'
+make[1]: Nothing to be done for `all'.
+make[1]: Leaving directory `/home/parallel/parlab20/a4/dmm-skeleton/common'
+make -C cuda 
+make[1]: Entering directory `/home/parallel/parlab20/a4/dmm-skeleton/cuda'
+/usr/local/cuda/bin/nvcc -D__FLOAT_VALUES -DEPS=1e-4 -I../common -DNDEBUG -I/usr/local/cuda/include -D_CHECK_ -c -ccbin gcc -arch sm_35 -O3 --ptxas-options=-v -o dmm_main.o dmm_main.cu
+/usr/local/cuda/bin/nvcc -o dmm_main -L../common  ../common/alloc.o  ../common/error.o dmm.o dmm_gpu.o dmm_main.o gpu_util.o mat_util.o -L/usr/local/cuda/lib64 -lcudart -lcublas -lm
+make[1]: Leaving directory `/home/parallel/parlab20/a4/dmm-skeleton/cuda'

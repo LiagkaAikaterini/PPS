@@ -1,0 +1,1288 @@
+/var/spool/torque/mom_priv/jobs/481462.localhost.SC: line 22: b: command not found
+make: Warning: File `dmm_gpu.cu' has modification time 35 s in the future
+ptxas info    : 0 bytes gmem
+ptxas info    : Compiling entry function '_Z19dmm_gpu_coalesced_APKfS0_Pfmmm' for 'sm_35'
+ptxas info    : Function properties for _Z19dmm_gpu_coalesced_APKfS0_Pfmmm
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 41 registers, 4096 bytes smem, 368 bytes cmem[0]
+ptxas info    : Compiling entry function '_Z13dmm_gpu_naivePKfS0_Pfmmm' for 'sm_35'
+ptxas info    : Function properties for _Z13dmm_gpu_naivePKfS0_Pfmmm
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 16 registers, 368 bytes cmem[0]
+ptxas info    : Compiling entry function '_Z22dmm_gpu_reduced_globalPKfS0_Pfmmm' for 'sm_35'
+ptxas info    : Function properties for _Z22dmm_gpu_reduced_globalPKfS0_Pfmmm
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 29 registers, 8192 bytes smem, 368 bytes cmem[0]
+dmm_main.cu(29): warning: function "check_result" was declared but never referenced
+
+dmm_main.cu(29): warning: function "check_result" was declared but never referenced
+
+ptxas info    : 0 bytes gmem
+ptxas info    : 0 bytes gmem
+make: warning:  Clock skew detected.  Your build may be incomplete.
+/var/spool/torque/mom_priv/jobs/481462.localhost.SC: line 22: b: command not found
+make: Warning: File `dmm_gpu.cu' has modification time 23 s in the future
+ptxas info    : 0 bytes gmem
+ptxas info    : Compiling entry function '_Z19dmm_gpu_coalesced_APKfS0_Pfmmm' for 'sm_35'
+ptxas info    : Function properties for _Z19dmm_gpu_coalesced_APKfS0_Pfmmm
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 41 registers, 4096 bytes smem, 368 bytes cmem[0]
+ptxas info    : Compiling entry function '_Z13dmm_gpu_naivePKfS0_Pfmmm' for 'sm_35'
+ptxas info    : Function properties for _Z13dmm_gpu_naivePKfS0_Pfmmm
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 16 registers, 368 bytes cmem[0]
+ptxas info    : Compiling entry function '_Z22dmm_gpu_reduced_globalPKfS0_Pfmmm' for 'sm_35'
+ptxas info    : Function properties for _Z22dmm_gpu_reduced_globalPKfS0_Pfmmm
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 29 registers, 8192 bytes smem, 368 bytes cmem[0]
+dmm_main.cu(29): warning: function "check_result" was declared but never referenced
+
+dmm_main.cu(29): warning: function "check_result" was declared but never referenced
+
+ptxas info    : 0 bytes gmem
+ptxas info    : 0 bytes gmem
+make: warning:  Clock skew detected.  Your build may be incomplete.
+/var/spool/torque/mom_priv/jobs/481462.localhost.SC: line 22: b: command not found
+make: Warning: File `dmm_gpu.cu' has modification time 13 s in the future
+ptxas info    : 0 bytes gmem
+ptxas info    : Compiling entry function '_Z19dmm_gpu_coalesced_APKfS0_Pfmmm' for 'sm_35'
+ptxas info    : Function properties for _Z19dmm_gpu_coalesced_APKfS0_Pfmmm
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 41 registers, 4096 bytes smem, 368 bytes cmem[0]
+ptxas info    : Compiling entry function '_Z13dmm_gpu_naivePKfS0_Pfmmm' for 'sm_35'
+ptxas info    : Function properties for _Z13dmm_gpu_naivePKfS0_Pfmmm
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 16 registers, 368 bytes cmem[0]
+ptxas info    : Compiling entry function '_Z22dmm_gpu_reduced_globalPKfS0_Pfmmm' for 'sm_35'
+ptxas info    : Function properties for _Z22dmm_gpu_reduced_globalPKfS0_Pfmmm
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 29 registers, 8192 bytes smem, 368 bytes cmem[0]
+dmm_main.cu(29): warning: function "check_result" was declared but never referenced
+
+dmm_main.cu(29): warning: function "check_result" was declared but never referenced
+
+ptxas info    : 0 bytes gmem
+ptxas info    : 0 bytes gmem
+make: warning:  Clock skew detected.  Your build may be incomplete.
+/var/spool/torque/mom_priv/jobs/481462.localhost.SC: line 22: b: command not found
+make: Warning: File `dmm_gpu.cu' has modification time 4 s in the future
+ptxas info    : 0 bytes gmem
+ptxas info    : Compiling entry function '_Z19dmm_gpu_coalesced_APKfS0_Pfmmm' for 'sm_35'
+ptxas info    : Function properties for _Z19dmm_gpu_coalesced_APKfS0_Pfmmm
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 41 registers, 4096 bytes smem, 368 bytes cmem[0]
+ptxas info    : Compiling entry function '_Z13dmm_gpu_naivePKfS0_Pfmmm' for 'sm_35'
+ptxas info    : Function properties for _Z13dmm_gpu_naivePKfS0_Pfmmm
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 16 registers, 368 bytes cmem[0]
+ptxas info    : Compiling entry function '_Z22dmm_gpu_reduced_globalPKfS0_Pfmmm' for 'sm_35'
+ptxas info    : Function properties for _Z22dmm_gpu_reduced_globalPKfS0_Pfmmm
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 29 registers, 8192 bytes smem, 368 bytes cmem[0]
+dmm_main.cu(29): warning: function "check_result" was declared but never referenced
+
+dmm_main.cu(29): warning: function "check_result" was declared but never referenced
+
+ptxas info    : 0 bytes gmem
+ptxas info    : 0 bytes gmem
+make: warning:  Clock skew detected.  Your build may be incomplete.
+/var/spool/torque/mom_priv/jobs/481462.localhost.SC: line 22: b: command not found
+ptxas info    : 0 bytes gmem
+ptxas info    : Compiling entry function '_Z19dmm_gpu_coalesced_APKfS0_Pfmmm' for 'sm_35'
+ptxas info    : Function properties for _Z19dmm_gpu_coalesced_APKfS0_Pfmmm
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 41 registers, 4096 bytes smem, 368 bytes cmem[0]
+ptxas info    : Compiling entry function '_Z13dmm_gpu_naivePKfS0_Pfmmm' for 'sm_35'
+ptxas info    : Function properties for _Z13dmm_gpu_naivePKfS0_Pfmmm
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 16 registers, 368 bytes cmem[0]
+ptxas info    : Compiling entry function '_Z22dmm_gpu_reduced_globalPKfS0_Pfmmm' for 'sm_35'
+ptxas info    : Function properties for _Z22dmm_gpu_reduced_globalPKfS0_Pfmmm
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 29 registers, 8192 bytes smem, 368 bytes cmem[0]
+dmm_main.cu(29): warning: function "check_result" was declared but never referenced
+
+dmm_main.cu(29): warning: function "check_result" was declared but never referenced
+
+ptxas info    : 0 bytes gmem
+ptxas info    : 0 bytes gmem
+/var/spool/torque/mom_priv/jobs/481462.localhost.SC: line 22: b: command not found
+ptxas info    : 0 bytes gmem
+ptxas info    : Compiling entry function '_Z19dmm_gpu_coalesced_APKfS0_Pfmmm' for 'sm_35'
+ptxas info    : Function properties for _Z19dmm_gpu_coalesced_APKfS0_Pfmmm
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 41 registers, 4096 bytes smem, 368 bytes cmem[0]
+ptxas info    : Compiling entry function '_Z13dmm_gpu_naivePKfS0_Pfmmm' for 'sm_35'
+ptxas info    : Function properties for _Z13dmm_gpu_naivePKfS0_Pfmmm
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 16 registers, 368 bytes cmem[0]
+ptxas info    : Compiling entry function '_Z22dmm_gpu_reduced_globalPKfS0_Pfmmm' for 'sm_35'
+ptxas info    : Function properties for _Z22dmm_gpu_reduced_globalPKfS0_Pfmmm
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 29 registers, 8192 bytes smem, 368 bytes cmem[0]
+dmm_main.cu(29): warning: function "check_result" was declared but never referenced
+
+dmm_main.cu(29): warning: function "check_result" was declared but never referenced
+
+ptxas info    : 0 bytes gmem
+ptxas info    : 0 bytes gmem
+/var/spool/torque/mom_priv/jobs/481462.localhost.SC: line 22: b: command not found
+ptxas info    : 0 bytes gmem
+ptxas info    : Compiling entry function '_Z19dmm_gpu_coalesced_APKfS0_Pfmmm' for 'sm_35'
+ptxas info    : Function properties for _Z19dmm_gpu_coalesced_APKfS0_Pfmmm
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 41 registers, 4096 bytes smem, 368 bytes cmem[0]
+ptxas info    : Compiling entry function '_Z13dmm_gpu_naivePKfS0_Pfmmm' for 'sm_35'
+ptxas info    : Function properties for _Z13dmm_gpu_naivePKfS0_Pfmmm
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 16 registers, 368 bytes cmem[0]
+ptxas info    : Compiling entry function '_Z22dmm_gpu_reduced_globalPKfS0_Pfmmm' for 'sm_35'
+ptxas info    : Function properties for _Z22dmm_gpu_reduced_globalPKfS0_Pfmmm
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 29 registers, 8192 bytes smem, 368 bytes cmem[0]
+dmm_main.cu(29): warning: function "check_result" was declared but never referenced
+
+dmm_main.cu(29): warning: function "check_result" was declared but never referenced
+
+ptxas info    : 0 bytes gmem
+ptxas info    : 0 bytes gmem
+/var/spool/torque/mom_priv/jobs/481462.localhost.SC: line 22: b: command not found
+ptxas info    : 0 bytes gmem
+ptxas info    : Compiling entry function '_Z19dmm_gpu_coalesced_APKfS0_Pfmmm' for 'sm_35'
+ptxas info    : Function properties for _Z19dmm_gpu_coalesced_APKfS0_Pfmmm
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 41 registers, 4096 bytes smem, 368 bytes cmem[0]
+ptxas info    : Compiling entry function '_Z13dmm_gpu_naivePKfS0_Pfmmm' for 'sm_35'
+ptxas info    : Function properties for _Z13dmm_gpu_naivePKfS0_Pfmmm
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 16 registers, 368 bytes cmem[0]
+ptxas info    : Compiling entry function '_Z22dmm_gpu_reduced_globalPKfS0_Pfmmm' for 'sm_35'
+ptxas info    : Function properties for _Z22dmm_gpu_reduced_globalPKfS0_Pfmmm
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 29 registers, 8192 bytes smem, 368 bytes cmem[0]
+dmm_main.cu(29): warning: function "check_result" was declared but never referenced
+
+dmm_main.cu(29): warning: function "check_result" was declared but never referenced
+
+ptxas info    : 0 bytes gmem
+ptxas info    : 0 bytes gmem
+/var/spool/torque/mom_priv/jobs/481462.localhost.SC: line 22: b: command not found
+ptxas info    : 0 bytes gmem
+ptxas info    : Compiling entry function '_Z19dmm_gpu_coalesced_APKfS0_Pfmmm' for 'sm_35'
+ptxas info    : Function properties for _Z19dmm_gpu_coalesced_APKfS0_Pfmmm
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 41 registers, 4096 bytes smem, 368 bytes cmem[0]
+ptxas info    : Compiling entry function '_Z13dmm_gpu_naivePKfS0_Pfmmm' for 'sm_35'
+ptxas info    : Function properties for _Z13dmm_gpu_naivePKfS0_Pfmmm
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 16 registers, 368 bytes cmem[0]
+ptxas info    : Compiling entry function '_Z22dmm_gpu_reduced_globalPKfS0_Pfmmm' for 'sm_35'
+ptxas info    : Function properties for _Z22dmm_gpu_reduced_globalPKfS0_Pfmmm
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 29 registers, 8192 bytes smem, 368 bytes cmem[0]
+dmm_main.cu(29): warning: function "check_result" was declared but never referenced
+
+dmm_main.cu(29): warning: function "check_result" was declared but never referenced
+
+ptxas info    : 0 bytes gmem
+ptxas info    : 0 bytes gmem
+/var/spool/torque/mom_priv/jobs/481462.localhost.SC: line 22: b: command not found
+ptxas info    : 0 bytes gmem
+ptxas info    : Compiling entry function '_Z19dmm_gpu_coalesced_APKfS0_Pfmmm' for 'sm_35'
+ptxas info    : Function properties for _Z19dmm_gpu_coalesced_APKfS0_Pfmmm
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 41 registers, 4096 bytes smem, 368 bytes cmem[0]
+ptxas info    : Compiling entry function '_Z13dmm_gpu_naivePKfS0_Pfmmm' for 'sm_35'
+ptxas info    : Function properties for _Z13dmm_gpu_naivePKfS0_Pfmmm
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 16 registers, 368 bytes cmem[0]
+ptxas info    : Compiling entry function '_Z22dmm_gpu_reduced_globalPKfS0_Pfmmm' for 'sm_35'
+ptxas info    : Function properties for _Z22dmm_gpu_reduced_globalPKfS0_Pfmmm
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 29 registers, 8192 bytes smem, 368 bytes cmem[0]
+dmm_main.cu(29): warning: function "check_result" was declared but never referenced
+
+dmm_main.cu(29): warning: function "check_result" was declared but never referenced
+
+ptxas info    : 0 bytes gmem
+ptxas info    : 0 bytes gmem
+/var/spool/torque/mom_priv/jobs/481462.localhost.SC: line 22: b: command not found
+ptxas info    : 0 bytes gmem
+ptxas info    : Compiling entry function '_Z19dmm_gpu_coalesced_APKfS0_Pfmmm' for 'sm_35'
+ptxas info    : Function properties for _Z19dmm_gpu_coalesced_APKfS0_Pfmmm
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 41 registers, 4096 bytes smem, 368 bytes cmem[0]
+ptxas info    : Compiling entry function '_Z13dmm_gpu_naivePKfS0_Pfmmm' for 'sm_35'
+ptxas info    : Function properties for _Z13dmm_gpu_naivePKfS0_Pfmmm
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 16 registers, 368 bytes cmem[0]
+ptxas info    : Compiling entry function '_Z22dmm_gpu_reduced_globalPKfS0_Pfmmm' for 'sm_35'
+ptxas info    : Function properties for _Z22dmm_gpu_reduced_globalPKfS0_Pfmmm
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 29 registers, 8192 bytes smem, 368 bytes cmem[0]
+dmm_main.cu(29): warning: function "check_result" was declared but never referenced
+
+dmm_main.cu(29): warning: function "check_result" was declared but never referenced
+
+ptxas info    : 0 bytes gmem
+ptxas info    : 0 bytes gmem
+/var/spool/torque/mom_priv/jobs/481462.localhost.SC: line 22: b: command not found
+ptxas info    : 0 bytes gmem
+ptxas info    : Compiling entry function '_Z19dmm_gpu_coalesced_APKfS0_Pfmmm' for 'sm_35'
+ptxas info    : Function properties for _Z19dmm_gpu_coalesced_APKfS0_Pfmmm
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 41 registers, 4096 bytes smem, 368 bytes cmem[0]
+ptxas info    : Compiling entry function '_Z13dmm_gpu_naivePKfS0_Pfmmm' for 'sm_35'
+ptxas info    : Function properties for _Z13dmm_gpu_naivePKfS0_Pfmmm
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 16 registers, 368 bytes cmem[0]
+ptxas info    : Compiling entry function '_Z22dmm_gpu_reduced_globalPKfS0_Pfmmm' for 'sm_35'
+ptxas info    : Function properties for _Z22dmm_gpu_reduced_globalPKfS0_Pfmmm
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 29 registers, 8192 bytes smem, 368 bytes cmem[0]
+dmm_main.cu(29): warning: function "check_result" was declared but never referenced
+
+dmm_main.cu(29): warning: function "check_result" was declared but never referenced
+
+ptxas info    : 0 bytes gmem
+ptxas info    : 0 bytes gmem
+/var/spool/torque/mom_priv/jobs/481462.localhost.SC: line 22: b: command not found
+ptxas info    : 0 bytes gmem
+ptxas info    : Compiling entry function '_Z19dmm_gpu_coalesced_APKfS0_Pfmmm' for 'sm_35'
+ptxas info    : Function properties for _Z19dmm_gpu_coalesced_APKfS0_Pfmmm
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 41 registers, 4096 bytes smem, 368 bytes cmem[0]
+ptxas info    : Compiling entry function '_Z13dmm_gpu_naivePKfS0_Pfmmm' for 'sm_35'
+ptxas info    : Function properties for _Z13dmm_gpu_naivePKfS0_Pfmmm
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 16 registers, 368 bytes cmem[0]
+ptxas info    : Compiling entry function '_Z22dmm_gpu_reduced_globalPKfS0_Pfmmm' for 'sm_35'
+ptxas info    : Function properties for _Z22dmm_gpu_reduced_globalPKfS0_Pfmmm
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 29 registers, 8192 bytes smem, 368 bytes cmem[0]
+dmm_main.cu(29): warning: function "check_result" was declared but never referenced
+
+dmm_main.cu(29): warning: function "check_result" was declared but never referenced
+
+ptxas info    : 0 bytes gmem
+ptxas info    : 0 bytes gmem
+/var/spool/torque/mom_priv/jobs/481462.localhost.SC: line 22: b: command not found
+ptxas info    : 0 bytes gmem
+ptxas info    : Compiling entry function '_Z19dmm_gpu_coalesced_APKfS0_Pfmmm' for 'sm_35'
+ptxas info    : Function properties for _Z19dmm_gpu_coalesced_APKfS0_Pfmmm
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 41 registers, 4096 bytes smem, 368 bytes cmem[0]
+ptxas info    : Compiling entry function '_Z13dmm_gpu_naivePKfS0_Pfmmm' for 'sm_35'
+ptxas info    : Function properties for _Z13dmm_gpu_naivePKfS0_Pfmmm
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 16 registers, 368 bytes cmem[0]
+ptxas info    : Compiling entry function '_Z22dmm_gpu_reduced_globalPKfS0_Pfmmm' for 'sm_35'
+ptxas info    : Function properties for _Z22dmm_gpu_reduced_globalPKfS0_Pfmmm
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 29 registers, 8192 bytes smem, 368 bytes cmem[0]
+dmm_main.cu(29): warning: function "check_result" was declared but never referenced
+
+dmm_main.cu(29): warning: function "check_result" was declared but never referenced
+
+ptxas info    : 0 bytes gmem
+ptxas info    : 0 bytes gmem
+/var/spool/torque/mom_priv/jobs/481462.localhost.SC: line 22: b: command not found
+ptxas info    : 0 bytes gmem
+ptxas info    : Compiling entry function '_Z19dmm_gpu_coalesced_APKfS0_Pfmmm' for 'sm_35'
+ptxas info    : Function properties for _Z19dmm_gpu_coalesced_APKfS0_Pfmmm
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 41 registers, 4096 bytes smem, 368 bytes cmem[0]
+ptxas info    : Compiling entry function '_Z13dmm_gpu_naivePKfS0_Pfmmm' for 'sm_35'
+ptxas info    : Function properties for _Z13dmm_gpu_naivePKfS0_Pfmmm
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 16 registers, 368 bytes cmem[0]
+ptxas info    : Compiling entry function '_Z22dmm_gpu_reduced_globalPKfS0_Pfmmm' for 'sm_35'
+ptxas info    : Function properties for _Z22dmm_gpu_reduced_globalPKfS0_Pfmmm
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 29 registers, 8192 bytes smem, 368 bytes cmem[0]
+dmm_main.cu(29): warning: function "check_result" was declared but never referenced
+
+dmm_main.cu(29): warning: function "check_result" was declared but never referenced
+
+ptxas info    : 0 bytes gmem
+ptxas info    : 0 bytes gmem
+/var/spool/torque/mom_priv/jobs/481462.localhost.SC: line 22: b: command not found
+ptxas info    : 0 bytes gmem
+ptxas info    : Compiling entry function '_Z19dmm_gpu_coalesced_APKfS0_Pfmmm' for 'sm_35'
+ptxas info    : Function properties for _Z19dmm_gpu_coalesced_APKfS0_Pfmmm
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 41 registers, 4096 bytes smem, 368 bytes cmem[0]
+ptxas info    : Compiling entry function '_Z13dmm_gpu_naivePKfS0_Pfmmm' for 'sm_35'
+ptxas info    : Function properties for _Z13dmm_gpu_naivePKfS0_Pfmmm
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 16 registers, 368 bytes cmem[0]
+ptxas info    : Compiling entry function '_Z22dmm_gpu_reduced_globalPKfS0_Pfmmm' for 'sm_35'
+ptxas info    : Function properties for _Z22dmm_gpu_reduced_globalPKfS0_Pfmmm
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 29 registers, 8192 bytes smem, 368 bytes cmem[0]
+dmm_main.cu(29): warning: function "check_result" was declared but never referenced
+
+dmm_main.cu(29): warning: function "check_result" was declared but never referenced
+
+ptxas info    : 0 bytes gmem
+ptxas info    : 0 bytes gmem
+/var/spool/torque/mom_priv/jobs/481462.localhost.SC: line 22: b: command not found
+ptxas info    : 0 bytes gmem
+ptxas info    : Compiling entry function '_Z19dmm_gpu_coalesced_APKfS0_Pfmmm' for 'sm_35'
+ptxas info    : Function properties for _Z19dmm_gpu_coalesced_APKfS0_Pfmmm
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 41 registers, 4096 bytes smem, 368 bytes cmem[0]
+ptxas info    : Compiling entry function '_Z13dmm_gpu_naivePKfS0_Pfmmm' for 'sm_35'
+ptxas info    : Function properties for _Z13dmm_gpu_naivePKfS0_Pfmmm
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 16 registers, 368 bytes cmem[0]
+ptxas info    : Compiling entry function '_Z22dmm_gpu_reduced_globalPKfS0_Pfmmm' for 'sm_35'
+ptxas info    : Function properties for _Z22dmm_gpu_reduced_globalPKfS0_Pfmmm
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 29 registers, 8192 bytes smem, 368 bytes cmem[0]
+dmm_main.cu(29): warning: function "check_result" was declared but never referenced
+
+dmm_main.cu(29): warning: function "check_result" was declared but never referenced
+
+ptxas info    : 0 bytes gmem
+ptxas info    : 0 bytes gmem
+/var/spool/torque/mom_priv/jobs/481462.localhost.SC: line 22: b: command not found
+ptxas info    : 0 bytes gmem
+ptxas info    : Compiling entry function '_Z19dmm_gpu_coalesced_APKfS0_Pfmmm' for 'sm_35'
+ptxas info    : Function properties for _Z19dmm_gpu_coalesced_APKfS0_Pfmmm
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 41 registers, 4096 bytes smem, 368 bytes cmem[0]
+ptxas info    : Compiling entry function '_Z13dmm_gpu_naivePKfS0_Pfmmm' for 'sm_35'
+ptxas info    : Function properties for _Z13dmm_gpu_naivePKfS0_Pfmmm
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 16 registers, 368 bytes cmem[0]
+ptxas info    : Compiling entry function '_Z22dmm_gpu_reduced_globalPKfS0_Pfmmm' for 'sm_35'
+ptxas info    : Function properties for _Z22dmm_gpu_reduced_globalPKfS0_Pfmmm
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 29 registers, 8192 bytes smem, 368 bytes cmem[0]
+dmm_main.cu(29): warning: function "check_result" was declared but never referenced
+
+dmm_main.cu(29): warning: function "check_result" was declared but never referenced
+
+ptxas info    : 0 bytes gmem
+ptxas info    : 0 bytes gmem
+/var/spool/torque/mom_priv/jobs/481462.localhost.SC: line 22: b: command not found
+ptxas info    : 0 bytes gmem
+ptxas info    : Compiling entry function '_Z19dmm_gpu_coalesced_APKfS0_Pfmmm' for 'sm_35'
+ptxas info    : Function properties for _Z19dmm_gpu_coalesced_APKfS0_Pfmmm
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 41 registers, 4096 bytes smem, 368 bytes cmem[0]
+ptxas info    : Compiling entry function '_Z13dmm_gpu_naivePKfS0_Pfmmm' for 'sm_35'
+ptxas info    : Function properties for _Z13dmm_gpu_naivePKfS0_Pfmmm
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 16 registers, 368 bytes cmem[0]
+ptxas info    : Compiling entry function '_Z22dmm_gpu_reduced_globalPKfS0_Pfmmm' for 'sm_35'
+ptxas info    : Function properties for _Z22dmm_gpu_reduced_globalPKfS0_Pfmmm
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 29 registers, 8192 bytes smem, 368 bytes cmem[0]
+dmm_main.cu(29): warning: function "check_result" was declared but never referenced
+
+dmm_main.cu(29): warning: function "check_result" was declared but never referenced
+
+ptxas info    : 0 bytes gmem
+ptxas info    : 0 bytes gmem
+/var/spool/torque/mom_priv/jobs/481462.localhost.SC: line 22: b: command not found
+ptxas info    : 0 bytes gmem
+ptxas info    : Compiling entry function '_Z19dmm_gpu_coalesced_APKfS0_Pfmmm' for 'sm_35'
+ptxas info    : Function properties for _Z19dmm_gpu_coalesced_APKfS0_Pfmmm
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 41 registers, 4096 bytes smem, 368 bytes cmem[0]
+ptxas info    : Compiling entry function '_Z13dmm_gpu_naivePKfS0_Pfmmm' for 'sm_35'
+ptxas info    : Function properties for _Z13dmm_gpu_naivePKfS0_Pfmmm
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 16 registers, 368 bytes cmem[0]
+ptxas info    : Compiling entry function '_Z22dmm_gpu_reduced_globalPKfS0_Pfmmm' for 'sm_35'
+ptxas info    : Function properties for _Z22dmm_gpu_reduced_globalPKfS0_Pfmmm
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 29 registers, 8192 bytes smem, 368 bytes cmem[0]
+dmm_main.cu(29): warning: function "check_result" was declared but never referenced
+
+dmm_main.cu(29): warning: function "check_result" was declared but never referenced
+
+ptxas info    : 0 bytes gmem
+ptxas info    : 0 bytes gmem
+/var/spool/torque/mom_priv/jobs/481462.localhost.SC: line 22: b: command not found
+ptxas info    : 0 bytes gmem
+ptxas info    : Compiling entry function '_Z19dmm_gpu_coalesced_APKfS0_Pfmmm' for 'sm_35'
+ptxas info    : Function properties for _Z19dmm_gpu_coalesced_APKfS0_Pfmmm
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 41 registers, 4096 bytes smem, 368 bytes cmem[0]
+ptxas info    : Compiling entry function '_Z13dmm_gpu_naivePKfS0_Pfmmm' for 'sm_35'
+ptxas info    : Function properties for _Z13dmm_gpu_naivePKfS0_Pfmmm
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 16 registers, 368 bytes cmem[0]
+ptxas info    : Compiling entry function '_Z22dmm_gpu_reduced_globalPKfS0_Pfmmm' for 'sm_35'
+ptxas info    : Function properties for _Z22dmm_gpu_reduced_globalPKfS0_Pfmmm
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 29 registers, 8192 bytes smem, 368 bytes cmem[0]
+dmm_main.cu(29): warning: function "check_result" was declared but never referenced
+
+dmm_main.cu(29): warning: function "check_result" was declared but never referenced
+
+ptxas info    : 0 bytes gmem
+ptxas info    : 0 bytes gmem
+/var/spool/torque/mom_priv/jobs/481462.localhost.SC: line 22: b: command not found
+ptxas info    : 0 bytes gmem
+ptxas info    : Compiling entry function '_Z19dmm_gpu_coalesced_APKfS0_Pfmmm' for 'sm_35'
+ptxas info    : Function properties for _Z19dmm_gpu_coalesced_APKfS0_Pfmmm
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 41 registers, 4096 bytes smem, 368 bytes cmem[0]
+ptxas info    : Compiling entry function '_Z13dmm_gpu_naivePKfS0_Pfmmm' for 'sm_35'
+ptxas info    : Function properties for _Z13dmm_gpu_naivePKfS0_Pfmmm
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 16 registers, 368 bytes cmem[0]
+ptxas info    : Compiling entry function '_Z22dmm_gpu_reduced_globalPKfS0_Pfmmm' for 'sm_35'
+ptxas info    : Function properties for _Z22dmm_gpu_reduced_globalPKfS0_Pfmmm
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 29 registers, 8192 bytes smem, 368 bytes cmem[0]
+dmm_main.cu(29): warning: function "check_result" was declared but never referenced
+
+dmm_main.cu(29): warning: function "check_result" was declared but never referenced
+
+ptxas info    : 0 bytes gmem
+ptxas info    : 0 bytes gmem
+/var/spool/torque/mom_priv/jobs/481462.localhost.SC: line 22: b: command not found
+ptxas info    : 0 bytes gmem
+ptxas info    : Compiling entry function '_Z19dmm_gpu_coalesced_APKfS0_Pfmmm' for 'sm_35'
+ptxas info    : Function properties for _Z19dmm_gpu_coalesced_APKfS0_Pfmmm
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 41 registers, 4096 bytes smem, 368 bytes cmem[0]
+ptxas info    : Compiling entry function '_Z13dmm_gpu_naivePKfS0_Pfmmm' for 'sm_35'
+ptxas info    : Function properties for _Z13dmm_gpu_naivePKfS0_Pfmmm
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 16 registers, 368 bytes cmem[0]
+ptxas info    : Compiling entry function '_Z22dmm_gpu_reduced_globalPKfS0_Pfmmm' for 'sm_35'
+ptxas info    : Function properties for _Z22dmm_gpu_reduced_globalPKfS0_Pfmmm
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 29 registers, 8192 bytes smem, 368 bytes cmem[0]
+dmm_main.cu(29): warning: function "check_result" was declared but never referenced
+
+dmm_main.cu(29): warning: function "check_result" was declared but never referenced
+
+ptxas info    : 0 bytes gmem
+ptxas info    : 0 bytes gmem
+/var/spool/torque/mom_priv/jobs/481462.localhost.SC: line 22: b: command not found
+ptxas info    : 0 bytes gmem
+ptxas info    : Compiling entry function '_Z19dmm_gpu_coalesced_APKfS0_Pfmmm' for 'sm_35'
+ptxas info    : Function properties for _Z19dmm_gpu_coalesced_APKfS0_Pfmmm
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 41 registers, 4096 bytes smem, 368 bytes cmem[0]
+ptxas info    : Compiling entry function '_Z13dmm_gpu_naivePKfS0_Pfmmm' for 'sm_35'
+ptxas info    : Function properties for _Z13dmm_gpu_naivePKfS0_Pfmmm
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 16 registers, 368 bytes cmem[0]
+ptxas info    : Compiling entry function '_Z22dmm_gpu_reduced_globalPKfS0_Pfmmm' for 'sm_35'
+ptxas info    : Function properties for _Z22dmm_gpu_reduced_globalPKfS0_Pfmmm
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 29 registers, 8192 bytes smem, 368 bytes cmem[0]
+dmm_main.cu(29): warning: function "check_result" was declared but never referenced
+
+dmm_main.cu(29): warning: function "check_result" was declared but never referenced
+
+ptxas info    : 0 bytes gmem
+ptxas info    : 0 bytes gmem
+/var/spool/torque/mom_priv/jobs/481462.localhost.SC: line 22: b: command not found
+ptxas info    : 0 bytes gmem
+ptxas info    : Compiling entry function '_Z19dmm_gpu_coalesced_APKfS0_Pfmmm' for 'sm_35'
+ptxas info    : Function properties for _Z19dmm_gpu_coalesced_APKfS0_Pfmmm
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 41 registers, 4096 bytes smem, 368 bytes cmem[0]
+ptxas info    : Compiling entry function '_Z13dmm_gpu_naivePKfS0_Pfmmm' for 'sm_35'
+ptxas info    : Function properties for _Z13dmm_gpu_naivePKfS0_Pfmmm
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 16 registers, 368 bytes cmem[0]
+ptxas info    : Compiling entry function '_Z22dmm_gpu_reduced_globalPKfS0_Pfmmm' for 'sm_35'
+ptxas info    : Function properties for _Z22dmm_gpu_reduced_globalPKfS0_Pfmmm
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 29 registers, 8192 bytes smem, 368 bytes cmem[0]
+dmm_main.cu(29): warning: function "check_result" was declared but never referenced
+
+dmm_main.cu(29): warning: function "check_result" was declared but never referenced
+
+ptxas info    : 0 bytes gmem
+ptxas info    : 0 bytes gmem
+/var/spool/torque/mom_priv/jobs/481462.localhost.SC: line 22: b: command not found
+ptxas info    : 0 bytes gmem
+ptxas info    : Compiling entry function '_Z19dmm_gpu_coalesced_APKfS0_Pfmmm' for 'sm_35'
+ptxas info    : Function properties for _Z19dmm_gpu_coalesced_APKfS0_Pfmmm
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 41 registers, 4096 bytes smem, 368 bytes cmem[0]
+ptxas info    : Compiling entry function '_Z13dmm_gpu_naivePKfS0_Pfmmm' for 'sm_35'
+ptxas info    : Function properties for _Z13dmm_gpu_naivePKfS0_Pfmmm
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 16 registers, 368 bytes cmem[0]
+ptxas info    : Compiling entry function '_Z22dmm_gpu_reduced_globalPKfS0_Pfmmm' for 'sm_35'
+ptxas info    : Function properties for _Z22dmm_gpu_reduced_globalPKfS0_Pfmmm
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 29 registers, 8192 bytes smem, 368 bytes cmem[0]
+dmm_main.cu(29): warning: function "check_result" was declared but never referenced
+
+dmm_main.cu(29): warning: function "check_result" was declared but never referenced
+
+ptxas info    : 0 bytes gmem
+ptxas info    : 0 bytes gmem
+/var/spool/torque/mom_priv/jobs/481462.localhost.SC: line 22: b: command not found
+ptxas info    : 0 bytes gmem
+ptxas info    : Compiling entry function '_Z19dmm_gpu_coalesced_APKfS0_Pfmmm' for 'sm_35'
+ptxas info    : Function properties for _Z19dmm_gpu_coalesced_APKfS0_Pfmmm
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 41 registers, 4096 bytes smem, 368 bytes cmem[0]
+ptxas info    : Compiling entry function '_Z13dmm_gpu_naivePKfS0_Pfmmm' for 'sm_35'
+ptxas info    : Function properties for _Z13dmm_gpu_naivePKfS0_Pfmmm
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 16 registers, 368 bytes cmem[0]
+ptxas info    : Compiling entry function '_Z22dmm_gpu_reduced_globalPKfS0_Pfmmm' for 'sm_35'
+ptxas info    : Function properties for _Z22dmm_gpu_reduced_globalPKfS0_Pfmmm
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 29 registers, 8192 bytes smem, 368 bytes cmem[0]
+dmm_main.cu(29): warning: function "check_result" was declared but never referenced
+
+dmm_main.cu(29): warning: function "check_result" was declared but never referenced
+
+ptxas info    : 0 bytes gmem
+ptxas info    : 0 bytes gmem
+/var/spool/torque/mom_priv/jobs/481462.localhost.SC: line 22: b: command not found
+ptxas info    : 0 bytes gmem
+ptxas info    : Compiling entry function '_Z19dmm_gpu_coalesced_APKfS0_Pfmmm' for 'sm_35'
+ptxas info    : Function properties for _Z19dmm_gpu_coalesced_APKfS0_Pfmmm
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 41 registers, 4096 bytes smem, 368 bytes cmem[0]
+ptxas info    : Compiling entry function '_Z13dmm_gpu_naivePKfS0_Pfmmm' for 'sm_35'
+ptxas info    : Function properties for _Z13dmm_gpu_naivePKfS0_Pfmmm
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 16 registers, 368 bytes cmem[0]
+ptxas info    : Compiling entry function '_Z22dmm_gpu_reduced_globalPKfS0_Pfmmm' for 'sm_35'
+ptxas info    : Function properties for _Z22dmm_gpu_reduced_globalPKfS0_Pfmmm
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 29 registers, 8192 bytes smem, 368 bytes cmem[0]
+dmm_main.cu(29): warning: function "check_result" was declared but never referenced
+
+dmm_main.cu(29): warning: function "check_result" was declared but never referenced
+
+ptxas info    : 0 bytes gmem
+ptxas info    : 0 bytes gmem
+/var/spool/torque/mom_priv/jobs/481462.localhost.SC: line 22: b: command not found
+ptxas info    : 0 bytes gmem
+ptxas info    : Compiling entry function '_Z19dmm_gpu_coalesced_APKfS0_Pfmmm' for 'sm_35'
+ptxas info    : Function properties for _Z19dmm_gpu_coalesced_APKfS0_Pfmmm
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 41 registers, 4096 bytes smem, 368 bytes cmem[0]
+ptxas info    : Compiling entry function '_Z13dmm_gpu_naivePKfS0_Pfmmm' for 'sm_35'
+ptxas info    : Function properties for _Z13dmm_gpu_naivePKfS0_Pfmmm
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 16 registers, 368 bytes cmem[0]
+ptxas info    : Compiling entry function '_Z22dmm_gpu_reduced_globalPKfS0_Pfmmm' for 'sm_35'
+ptxas info    : Function properties for _Z22dmm_gpu_reduced_globalPKfS0_Pfmmm
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 29 registers, 8192 bytes smem, 368 bytes cmem[0]
+dmm_main.cu(29): warning: function "check_result" was declared but never referenced
+
+dmm_main.cu(29): warning: function "check_result" was declared but never referenced
+
+ptxas info    : 0 bytes gmem
+ptxas info    : 0 bytes gmem
+/var/spool/torque/mom_priv/jobs/481462.localhost.SC: line 22: b: command not found
+ptxas info    : 0 bytes gmem
+ptxas info    : Compiling entry function '_Z19dmm_gpu_coalesced_APKfS0_Pfmmm' for 'sm_35'
+ptxas info    : Function properties for _Z19dmm_gpu_coalesced_APKfS0_Pfmmm
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 41 registers, 4096 bytes smem, 368 bytes cmem[0]
+ptxas info    : Compiling entry function '_Z13dmm_gpu_naivePKfS0_Pfmmm' for 'sm_35'
+ptxas info    : Function properties for _Z13dmm_gpu_naivePKfS0_Pfmmm
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 16 registers, 368 bytes cmem[0]
+ptxas info    : Compiling entry function '_Z22dmm_gpu_reduced_globalPKfS0_Pfmmm' for 'sm_35'
+ptxas info    : Function properties for _Z22dmm_gpu_reduced_globalPKfS0_Pfmmm
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 29 registers, 8192 bytes smem, 368 bytes cmem[0]
+dmm_main.cu(29): warning: function "check_result" was declared but never referenced
+
+dmm_main.cu(29): warning: function "check_result" was declared but never referenced
+
+ptxas info    : 0 bytes gmem
+ptxas info    : 0 bytes gmem
+/var/spool/torque/mom_priv/jobs/481462.localhost.SC: line 22: b: command not found
+ptxas info    : 0 bytes gmem
+ptxas info    : Compiling entry function '_Z19dmm_gpu_coalesced_APKfS0_Pfmmm' for 'sm_35'
+ptxas info    : Function properties for _Z19dmm_gpu_coalesced_APKfS0_Pfmmm
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 41 registers, 4096 bytes smem, 368 bytes cmem[0]
+ptxas info    : Compiling entry function '_Z13dmm_gpu_naivePKfS0_Pfmmm' for 'sm_35'
+ptxas info    : Function properties for _Z13dmm_gpu_naivePKfS0_Pfmmm
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 16 registers, 368 bytes cmem[0]
+ptxas info    : Compiling entry function '_Z22dmm_gpu_reduced_globalPKfS0_Pfmmm' for 'sm_35'
+ptxas info    : Function properties for _Z22dmm_gpu_reduced_globalPKfS0_Pfmmm
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 29 registers, 8192 bytes smem, 368 bytes cmem[0]
+dmm_main.cu(29): warning: function "check_result" was declared but never referenced
+
+dmm_main.cu(29): warning: function "check_result" was declared but never referenced
+
+ptxas info    : 0 bytes gmem
+ptxas info    : 0 bytes gmem
+/var/spool/torque/mom_priv/jobs/481462.localhost.SC: line 22: b: command not found
+ptxas info    : 0 bytes gmem
+ptxas info    : Compiling entry function '_Z19dmm_gpu_coalesced_APKfS0_Pfmmm' for 'sm_35'
+ptxas info    : Function properties for _Z19dmm_gpu_coalesced_APKfS0_Pfmmm
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 41 registers, 4096 bytes smem, 368 bytes cmem[0]
+ptxas info    : Compiling entry function '_Z13dmm_gpu_naivePKfS0_Pfmmm' for 'sm_35'
+ptxas info    : Function properties for _Z13dmm_gpu_naivePKfS0_Pfmmm
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 16 registers, 368 bytes cmem[0]
+ptxas info    : Compiling entry function '_Z22dmm_gpu_reduced_globalPKfS0_Pfmmm' for 'sm_35'
+ptxas info    : Function properties for _Z22dmm_gpu_reduced_globalPKfS0_Pfmmm
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 29 registers, 8192 bytes smem, 368 bytes cmem[0]
+dmm_main.cu(29): warning: function "check_result" was declared but never referenced
+
+dmm_main.cu(29): warning: function "check_result" was declared but never referenced
+
+ptxas info    : 0 bytes gmem
+ptxas info    : 0 bytes gmem
+/var/spool/torque/mom_priv/jobs/481462.localhost.SC: line 22: b: command not found
+ptxas info    : 0 bytes gmem
+ptxas info    : Compiling entry function '_Z19dmm_gpu_coalesced_APKfS0_Pfmmm' for 'sm_35'
+ptxas info    : Function properties for _Z19dmm_gpu_coalesced_APKfS0_Pfmmm
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 41 registers, 4096 bytes smem, 368 bytes cmem[0]
+ptxas info    : Compiling entry function '_Z13dmm_gpu_naivePKfS0_Pfmmm' for 'sm_35'
+ptxas info    : Function properties for _Z13dmm_gpu_naivePKfS0_Pfmmm
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 16 registers, 368 bytes cmem[0]
+ptxas info    : Compiling entry function '_Z22dmm_gpu_reduced_globalPKfS0_Pfmmm' for 'sm_35'
+ptxas info    : Function properties for _Z22dmm_gpu_reduced_globalPKfS0_Pfmmm
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 29 registers, 8192 bytes smem, 368 bytes cmem[0]
+dmm_main.cu(29): warning: function "check_result" was declared but never referenced
+
+dmm_main.cu(29): warning: function "check_result" was declared but never referenced
+
+ptxas info    : 0 bytes gmem
+ptxas info    : 0 bytes gmem
+/var/spool/torque/mom_priv/jobs/481462.localhost.SC: line 22: b: command not found
+ptxas info    : 0 bytes gmem
+ptxas info    : Compiling entry function '_Z19dmm_gpu_coalesced_APKfS0_Pfmmm' for 'sm_35'
+ptxas info    : Function properties for _Z19dmm_gpu_coalesced_APKfS0_Pfmmm
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 41 registers, 4096 bytes smem, 368 bytes cmem[0]
+ptxas info    : Compiling entry function '_Z13dmm_gpu_naivePKfS0_Pfmmm' for 'sm_35'
+ptxas info    : Function properties for _Z13dmm_gpu_naivePKfS0_Pfmmm
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 16 registers, 368 bytes cmem[0]
+ptxas info    : Compiling entry function '_Z22dmm_gpu_reduced_globalPKfS0_Pfmmm' for 'sm_35'
+ptxas info    : Function properties for _Z22dmm_gpu_reduced_globalPKfS0_Pfmmm
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 29 registers, 8192 bytes smem, 368 bytes cmem[0]
+dmm_main.cu(29): warning: function "check_result" was declared but never referenced
+
+dmm_main.cu(29): warning: function "check_result" was declared but never referenced
+
+ptxas info    : 0 bytes gmem
+ptxas info    : 0 bytes gmem
+/var/spool/torque/mom_priv/jobs/481462.localhost.SC: line 22: b: command not found
+ptxas info    : 0 bytes gmem
+ptxas info    : Compiling entry function '_Z19dmm_gpu_coalesced_APKfS0_Pfmmm' for 'sm_35'
+ptxas info    : Function properties for _Z19dmm_gpu_coalesced_APKfS0_Pfmmm
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 41 registers, 4096 bytes smem, 368 bytes cmem[0]
+ptxas info    : Compiling entry function '_Z13dmm_gpu_naivePKfS0_Pfmmm' for 'sm_35'
+ptxas info    : Function properties for _Z13dmm_gpu_naivePKfS0_Pfmmm
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 16 registers, 368 bytes cmem[0]
+ptxas info    : Compiling entry function '_Z22dmm_gpu_reduced_globalPKfS0_Pfmmm' for 'sm_35'
+ptxas info    : Function properties for _Z22dmm_gpu_reduced_globalPKfS0_Pfmmm
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 29 registers, 8192 bytes smem, 368 bytes cmem[0]
+dmm_main.cu(29): warning: function "check_result" was declared but never referenced
+
+dmm_main.cu(29): warning: function "check_result" was declared but never referenced
+
+ptxas info    : 0 bytes gmem
+ptxas info    : 0 bytes gmem
+/var/spool/torque/mom_priv/jobs/481462.localhost.SC: line 22: b: command not found
+ptxas info    : 0 bytes gmem
+ptxas info    : Compiling entry function '_Z19dmm_gpu_coalesced_APKfS0_Pfmmm' for 'sm_35'
+ptxas info    : Function properties for _Z19dmm_gpu_coalesced_APKfS0_Pfmmm
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 41 registers, 4096 bytes smem, 368 bytes cmem[0]
+ptxas info    : Compiling entry function '_Z13dmm_gpu_naivePKfS0_Pfmmm' for 'sm_35'
+ptxas info    : Function properties for _Z13dmm_gpu_naivePKfS0_Pfmmm
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 16 registers, 368 bytes cmem[0]
+ptxas info    : Compiling entry function '_Z22dmm_gpu_reduced_globalPKfS0_Pfmmm' for 'sm_35'
+ptxas info    : Function properties for _Z22dmm_gpu_reduced_globalPKfS0_Pfmmm
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 29 registers, 8192 bytes smem, 368 bytes cmem[0]
+dmm_main.cu(29): warning: function "check_result" was declared but never referenced
+
+dmm_main.cu(29): warning: function "check_result" was declared but never referenced
+
+ptxas info    : 0 bytes gmem
+ptxas info    : 0 bytes gmem
+/var/spool/torque/mom_priv/jobs/481462.localhost.SC: line 22: b: command not found
+ptxas info    : 0 bytes gmem
+ptxas info    : Compiling entry function '_Z19dmm_gpu_coalesced_APKfS0_Pfmmm' for 'sm_35'
+ptxas info    : Function properties for _Z19dmm_gpu_coalesced_APKfS0_Pfmmm
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 41 registers, 4096 bytes smem, 368 bytes cmem[0]
+ptxas info    : Compiling entry function '_Z13dmm_gpu_naivePKfS0_Pfmmm' for 'sm_35'
+ptxas info    : Function properties for _Z13dmm_gpu_naivePKfS0_Pfmmm
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 16 registers, 368 bytes cmem[0]
+ptxas info    : Compiling entry function '_Z22dmm_gpu_reduced_globalPKfS0_Pfmmm' for 'sm_35'
+ptxas info    : Function properties for _Z22dmm_gpu_reduced_globalPKfS0_Pfmmm
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 29 registers, 8192 bytes smem, 368 bytes cmem[0]
+dmm_main.cu(29): warning: function "check_result" was declared but never referenced
+
+dmm_main.cu(29): warning: function "check_result" was declared but never referenced
+
+ptxas info    : 0 bytes gmem
+ptxas info    : 0 bytes gmem
+/var/spool/torque/mom_priv/jobs/481462.localhost.SC: line 22: b: command not found
+ptxas info    : 0 bytes gmem
+ptxas info    : Compiling entry function '_Z19dmm_gpu_coalesced_APKfS0_Pfmmm' for 'sm_35'
+ptxas info    : Function properties for _Z19dmm_gpu_coalesced_APKfS0_Pfmmm
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 41 registers, 4096 bytes smem, 368 bytes cmem[0]
+ptxas info    : Compiling entry function '_Z13dmm_gpu_naivePKfS0_Pfmmm' for 'sm_35'
+ptxas info    : Function properties for _Z13dmm_gpu_naivePKfS0_Pfmmm
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 16 registers, 368 bytes cmem[0]
+ptxas info    : Compiling entry function '_Z22dmm_gpu_reduced_globalPKfS0_Pfmmm' for 'sm_35'
+ptxas info    : Function properties for _Z22dmm_gpu_reduced_globalPKfS0_Pfmmm
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 29 registers, 8192 bytes smem, 368 bytes cmem[0]
+dmm_main.cu(29): warning: function "check_result" was declared but never referenced
+
+dmm_main.cu(29): warning: function "check_result" was declared but never referenced
+
+ptxas info    : 0 bytes gmem
+ptxas info    : 0 bytes gmem
+/var/spool/torque/mom_priv/jobs/481462.localhost.SC: line 22: b: command not found
+ptxas info    : 0 bytes gmem
+ptxas info    : Compiling entry function '_Z19dmm_gpu_coalesced_APKfS0_Pfmmm' for 'sm_35'
+ptxas info    : Function properties for _Z19dmm_gpu_coalesced_APKfS0_Pfmmm
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 41 registers, 4096 bytes smem, 368 bytes cmem[0]
+ptxas info    : Compiling entry function '_Z13dmm_gpu_naivePKfS0_Pfmmm' for 'sm_35'
+ptxas info    : Function properties for _Z13dmm_gpu_naivePKfS0_Pfmmm
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 16 registers, 368 bytes cmem[0]
+ptxas info    : Compiling entry function '_Z22dmm_gpu_reduced_globalPKfS0_Pfmmm' for 'sm_35'
+ptxas info    : Function properties for _Z22dmm_gpu_reduced_globalPKfS0_Pfmmm
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 29 registers, 8192 bytes smem, 368 bytes cmem[0]
+dmm_main.cu(29): warning: function "check_result" was declared but never referenced
+
+dmm_main.cu(29): warning: function "check_result" was declared but never referenced
+
+ptxas info    : 0 bytes gmem
+ptxas info    : 0 bytes gmem
+/var/spool/torque/mom_priv/jobs/481462.localhost.SC: line 22: b: command not found
+ptxas info    : 0 bytes gmem
+ptxas info    : Compiling entry function '_Z19dmm_gpu_coalesced_APKfS0_Pfmmm' for 'sm_35'
+ptxas info    : Function properties for _Z19dmm_gpu_coalesced_APKfS0_Pfmmm
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 41 registers, 4096 bytes smem, 368 bytes cmem[0]
+ptxas info    : Compiling entry function '_Z13dmm_gpu_naivePKfS0_Pfmmm' for 'sm_35'
+ptxas info    : Function properties for _Z13dmm_gpu_naivePKfS0_Pfmmm
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 16 registers, 368 bytes cmem[0]
+ptxas info    : Compiling entry function '_Z22dmm_gpu_reduced_globalPKfS0_Pfmmm' for 'sm_35'
+ptxas info    : Function properties for _Z22dmm_gpu_reduced_globalPKfS0_Pfmmm
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 29 registers, 8192 bytes smem, 368 bytes cmem[0]
+dmm_main.cu(29): warning: function "check_result" was declared but never referenced
+
+dmm_main.cu(29): warning: function "check_result" was declared but never referenced
+
+ptxas info    : 0 bytes gmem
+ptxas info    : 0 bytes gmem
+/var/spool/torque/mom_priv/jobs/481462.localhost.SC: line 22: b: command not found
+ptxas info    : 0 bytes gmem
+ptxas info    : Compiling entry function '_Z19dmm_gpu_coalesced_APKfS0_Pfmmm' for 'sm_35'
+ptxas info    : Function properties for _Z19dmm_gpu_coalesced_APKfS0_Pfmmm
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 41 registers, 4096 bytes smem, 368 bytes cmem[0]
+ptxas info    : Compiling entry function '_Z13dmm_gpu_naivePKfS0_Pfmmm' for 'sm_35'
+ptxas info    : Function properties for _Z13dmm_gpu_naivePKfS0_Pfmmm
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 16 registers, 368 bytes cmem[0]
+ptxas info    : Compiling entry function '_Z22dmm_gpu_reduced_globalPKfS0_Pfmmm' for 'sm_35'
+ptxas info    : Function properties for _Z22dmm_gpu_reduced_globalPKfS0_Pfmmm
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 29 registers, 8192 bytes smem, 368 bytes cmem[0]
+dmm_main.cu(29): warning: function "check_result" was declared but never referenced
+
+dmm_main.cu(29): warning: function "check_result" was declared but never referenced
+
+ptxas info    : 0 bytes gmem
+ptxas info    : 0 bytes gmem
+/var/spool/torque/mom_priv/jobs/481462.localhost.SC: line 22: b: command not found
+ptxas info    : 0 bytes gmem
+ptxas info    : Compiling entry function '_Z19dmm_gpu_coalesced_APKfS0_Pfmmm' for 'sm_35'
+ptxas info    : Function properties for _Z19dmm_gpu_coalesced_APKfS0_Pfmmm
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 41 registers, 4096 bytes smem, 368 bytes cmem[0]
+ptxas info    : Compiling entry function '_Z13dmm_gpu_naivePKfS0_Pfmmm' for 'sm_35'
+ptxas info    : Function properties for _Z13dmm_gpu_naivePKfS0_Pfmmm
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 16 registers, 368 bytes cmem[0]
+ptxas info    : Compiling entry function '_Z22dmm_gpu_reduced_globalPKfS0_Pfmmm' for 'sm_35'
+ptxas info    : Function properties for _Z22dmm_gpu_reduced_globalPKfS0_Pfmmm
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 29 registers, 8192 bytes smem, 368 bytes cmem[0]
+dmm_main.cu(29): warning: function "check_result" was declared but never referenced
+
+dmm_main.cu(29): warning: function "check_result" was declared but never referenced
+
+ptxas info    : 0 bytes gmem
+ptxas info    : 0 bytes gmem
+/var/spool/torque/mom_priv/jobs/481462.localhost.SC: line 22: b: command not found
+ptxas info    : 0 bytes gmem
+ptxas info    : Compiling entry function '_Z19dmm_gpu_coalesced_APKfS0_Pfmmm' for 'sm_35'
+ptxas info    : Function properties for _Z19dmm_gpu_coalesced_APKfS0_Pfmmm
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 41 registers, 4096 bytes smem, 368 bytes cmem[0]
+ptxas info    : Compiling entry function '_Z13dmm_gpu_naivePKfS0_Pfmmm' for 'sm_35'
+ptxas info    : Function properties for _Z13dmm_gpu_naivePKfS0_Pfmmm
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 16 registers, 368 bytes cmem[0]
+ptxas info    : Compiling entry function '_Z22dmm_gpu_reduced_globalPKfS0_Pfmmm' for 'sm_35'
+ptxas info    : Function properties for _Z22dmm_gpu_reduced_globalPKfS0_Pfmmm
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 29 registers, 8192 bytes smem, 368 bytes cmem[0]
+dmm_main.cu(29): warning: function "check_result" was declared but never referenced
+
+dmm_main.cu(29): warning: function "check_result" was declared but never referenced
+
+ptxas info    : 0 bytes gmem
+ptxas info    : 0 bytes gmem
+/var/spool/torque/mom_priv/jobs/481462.localhost.SC: line 22: b: command not found
+ptxas info    : 0 bytes gmem
+ptxas info    : Compiling entry function '_Z19dmm_gpu_coalesced_APKfS0_Pfmmm' for 'sm_35'
+ptxas info    : Function properties for _Z19dmm_gpu_coalesced_APKfS0_Pfmmm
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 41 registers, 4096 bytes smem, 368 bytes cmem[0]
+ptxas info    : Compiling entry function '_Z13dmm_gpu_naivePKfS0_Pfmmm' for 'sm_35'
+ptxas info    : Function properties for _Z13dmm_gpu_naivePKfS0_Pfmmm
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 16 registers, 368 bytes cmem[0]
+ptxas info    : Compiling entry function '_Z22dmm_gpu_reduced_globalPKfS0_Pfmmm' for 'sm_35'
+ptxas info    : Function properties for _Z22dmm_gpu_reduced_globalPKfS0_Pfmmm
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 29 registers, 8192 bytes smem, 368 bytes cmem[0]
+dmm_main.cu(29): warning: function "check_result" was declared but never referenced
+
+dmm_main.cu(29): warning: function "check_result" was declared but never referenced
+
+ptxas info    : 0 bytes gmem
+ptxas info    : 0 bytes gmem
+/var/spool/torque/mom_priv/jobs/481462.localhost.SC: line 22: b: command not found
+ptxas info    : 0 bytes gmem
+ptxas info    : Compiling entry function '_Z19dmm_gpu_coalesced_APKfS0_Pfmmm' for 'sm_35'
+ptxas info    : Function properties for _Z19dmm_gpu_coalesced_APKfS0_Pfmmm
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 41 registers, 4096 bytes smem, 368 bytes cmem[0]
+ptxas info    : Compiling entry function '_Z13dmm_gpu_naivePKfS0_Pfmmm' for 'sm_35'
+ptxas info    : Function properties for _Z13dmm_gpu_naivePKfS0_Pfmmm
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 16 registers, 368 bytes cmem[0]
+ptxas info    : Compiling entry function '_Z22dmm_gpu_reduced_globalPKfS0_Pfmmm' for 'sm_35'
+ptxas info    : Function properties for _Z22dmm_gpu_reduced_globalPKfS0_Pfmmm
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 29 registers, 8192 bytes smem, 368 bytes cmem[0]
+dmm_main.cu(29): warning: function "check_result" was declared but never referenced
+
+dmm_main.cu(29): warning: function "check_result" was declared but never referenced
+
+ptxas info    : 0 bytes gmem
+ptxas info    : 0 bytes gmem
+/var/spool/torque/mom_priv/jobs/481462.localhost.SC: line 22: b: command not found
+ptxas info    : 0 bytes gmem
+ptxas info    : Compiling entry function '_Z19dmm_gpu_coalesced_APKfS0_Pfmmm' for 'sm_35'
+ptxas info    : Function properties for _Z19dmm_gpu_coalesced_APKfS0_Pfmmm
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 41 registers, 4096 bytes smem, 368 bytes cmem[0]
+ptxas info    : Compiling entry function '_Z13dmm_gpu_naivePKfS0_Pfmmm' for 'sm_35'
+ptxas info    : Function properties for _Z13dmm_gpu_naivePKfS0_Pfmmm
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 16 registers, 368 bytes cmem[0]
+ptxas info    : Compiling entry function '_Z22dmm_gpu_reduced_globalPKfS0_Pfmmm' for 'sm_35'
+ptxas info    : Function properties for _Z22dmm_gpu_reduced_globalPKfS0_Pfmmm
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 29 registers, 8192 bytes smem, 368 bytes cmem[0]
+dmm_main.cu(29): warning: function "check_result" was declared but never referenced
+
+dmm_main.cu(29): warning: function "check_result" was declared but never referenced
+
+ptxas info    : 0 bytes gmem
+ptxas info    : 0 bytes gmem
+/var/spool/torque/mom_priv/jobs/481462.localhost.SC: line 22: b: command not found
+ptxas info    : 0 bytes gmem
+ptxas info    : Compiling entry function '_Z19dmm_gpu_coalesced_APKfS0_Pfmmm' for 'sm_35'
+ptxas info    : Function properties for _Z19dmm_gpu_coalesced_APKfS0_Pfmmm
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 41 registers, 4096 bytes smem, 368 bytes cmem[0]
+ptxas info    : Compiling entry function '_Z13dmm_gpu_naivePKfS0_Pfmmm' for 'sm_35'
+ptxas info    : Function properties for _Z13dmm_gpu_naivePKfS0_Pfmmm
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 16 registers, 368 bytes cmem[0]
+ptxas info    : Compiling entry function '_Z22dmm_gpu_reduced_globalPKfS0_Pfmmm' for 'sm_35'
+ptxas info    : Function properties for _Z22dmm_gpu_reduced_globalPKfS0_Pfmmm
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 29 registers, 8192 bytes smem, 368 bytes cmem[0]
+dmm_main.cu(29): warning: function "check_result" was declared but never referenced
+
+dmm_main.cu(29): warning: function "check_result" was declared but never referenced
+
+ptxas info    : 0 bytes gmem
+ptxas info    : 0 bytes gmem
+/var/spool/torque/mom_priv/jobs/481462.localhost.SC: line 22: b: command not found
+ptxas info    : 0 bytes gmem
+ptxas info    : Compiling entry function '_Z19dmm_gpu_coalesced_APKfS0_Pfmmm' for 'sm_35'
+ptxas info    : Function properties for _Z19dmm_gpu_coalesced_APKfS0_Pfmmm
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 41 registers, 4096 bytes smem, 368 bytes cmem[0]
+ptxas info    : Compiling entry function '_Z13dmm_gpu_naivePKfS0_Pfmmm' for 'sm_35'
+ptxas info    : Function properties for _Z13dmm_gpu_naivePKfS0_Pfmmm
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 16 registers, 368 bytes cmem[0]
+ptxas info    : Compiling entry function '_Z22dmm_gpu_reduced_globalPKfS0_Pfmmm' for 'sm_35'
+ptxas info    : Function properties for _Z22dmm_gpu_reduced_globalPKfS0_Pfmmm
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 29 registers, 8192 bytes smem, 368 bytes cmem[0]
+dmm_main.cu(29): warning: function "check_result" was declared but never referenced
+
+dmm_main.cu(29): warning: function "check_result" was declared but never referenced
+
+ptxas info    : 0 bytes gmem
+ptxas info    : 0 bytes gmem
+/var/spool/torque/mom_priv/jobs/481462.localhost.SC: line 22: b: command not found
+ptxas info    : 0 bytes gmem
+ptxas info    : Compiling entry function '_Z19dmm_gpu_coalesced_APKfS0_Pfmmm' for 'sm_35'
+ptxas info    : Function properties for _Z19dmm_gpu_coalesced_APKfS0_Pfmmm
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 41 registers, 4096 bytes smem, 368 bytes cmem[0]
+ptxas info    : Compiling entry function '_Z13dmm_gpu_naivePKfS0_Pfmmm' for 'sm_35'
+ptxas info    : Function properties for _Z13dmm_gpu_naivePKfS0_Pfmmm
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 16 registers, 368 bytes cmem[0]
+ptxas info    : Compiling entry function '_Z22dmm_gpu_reduced_globalPKfS0_Pfmmm' for 'sm_35'
+ptxas info    : Function properties for _Z22dmm_gpu_reduced_globalPKfS0_Pfmmm
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 29 registers, 8192 bytes smem, 368 bytes cmem[0]
+dmm_main.cu(29): warning: function "check_result" was declared but never referenced
+
+dmm_main.cu(29): warning: function "check_result" was declared but never referenced
+
+ptxas info    : 0 bytes gmem
+ptxas info    : 0 bytes gmem
+/var/spool/torque/mom_priv/jobs/481462.localhost.SC: line 22: b: command not found
+ptxas info    : 0 bytes gmem
+ptxas info    : Compiling entry function '_Z19dmm_gpu_coalesced_APKfS0_Pfmmm' for 'sm_35'
+ptxas info    : Function properties for _Z19dmm_gpu_coalesced_APKfS0_Pfmmm
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 41 registers, 4096 bytes smem, 368 bytes cmem[0]
+ptxas info    : Compiling entry function '_Z13dmm_gpu_naivePKfS0_Pfmmm' for 'sm_35'
+ptxas info    : Function properties for _Z13dmm_gpu_naivePKfS0_Pfmmm
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 16 registers, 368 bytes cmem[0]
+ptxas info    : Compiling entry function '_Z22dmm_gpu_reduced_globalPKfS0_Pfmmm' for 'sm_35'
+ptxas info    : Function properties for _Z22dmm_gpu_reduced_globalPKfS0_Pfmmm
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 29 registers, 8192 bytes smem, 368 bytes cmem[0]
+dmm_main.cu(29): warning: function "check_result" was declared but never referenced
+
+dmm_main.cu(29): warning: function "check_result" was declared but never referenced
+
+ptxas info    : 0 bytes gmem
+ptxas info    : 0 bytes gmem
+/var/spool/torque/mom_priv/jobs/481462.localhost.SC: line 22: b: command not found
+ptxas info    : 0 bytes gmem
+ptxas info    : Compiling entry function '_Z19dmm_gpu_coalesced_APKfS0_Pfmmm' for 'sm_35'
+ptxas info    : Function properties for _Z19dmm_gpu_coalesced_APKfS0_Pfmmm
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 41 registers, 4096 bytes smem, 368 bytes cmem[0]
+ptxas info    : Compiling entry function '_Z13dmm_gpu_naivePKfS0_Pfmmm' for 'sm_35'
+ptxas info    : Function properties for _Z13dmm_gpu_naivePKfS0_Pfmmm
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 16 registers, 368 bytes cmem[0]
+ptxas info    : Compiling entry function '_Z22dmm_gpu_reduced_globalPKfS0_Pfmmm' for 'sm_35'
+ptxas info    : Function properties for _Z22dmm_gpu_reduced_globalPKfS0_Pfmmm
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 29 registers, 8192 bytes smem, 368 bytes cmem[0]
+dmm_main.cu(29): warning: function "check_result" was declared but never referenced
+
+dmm_main.cu(29): warning: function "check_result" was declared but never referenced
+
+ptxas info    : 0 bytes gmem
+ptxas info    : 0 bytes gmem
+/var/spool/torque/mom_priv/jobs/481462.localhost.SC: line 22: b: command not found
+ptxas info    : 0 bytes gmem
+ptxas info    : Compiling entry function '_Z19dmm_gpu_coalesced_APKfS0_Pfmmm' for 'sm_35'
+ptxas info    : Function properties for _Z19dmm_gpu_coalesced_APKfS0_Pfmmm
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 41 registers, 4096 bytes smem, 368 bytes cmem[0]
+ptxas info    : Compiling entry function '_Z13dmm_gpu_naivePKfS0_Pfmmm' for 'sm_35'
+ptxas info    : Function properties for _Z13dmm_gpu_naivePKfS0_Pfmmm
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 16 registers, 368 bytes cmem[0]
+ptxas info    : Compiling entry function '_Z22dmm_gpu_reduced_globalPKfS0_Pfmmm' for 'sm_35'
+ptxas info    : Function properties for _Z22dmm_gpu_reduced_globalPKfS0_Pfmmm
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 29 registers, 8192 bytes smem, 368 bytes cmem[0]
+dmm_main.cu(29): warning: function "check_result" was declared but never referenced
+
+dmm_main.cu(29): warning: function "check_result" was declared but never referenced
+
+ptxas info    : 0 bytes gmem
+ptxas info    : 0 bytes gmem
+/var/spool/torque/mom_priv/jobs/481462.localhost.SC: line 22: b: command not found
+ptxas info    : 0 bytes gmem
+ptxas info    : Compiling entry function '_Z19dmm_gpu_coalesced_APKfS0_Pfmmm' for 'sm_35'
+ptxas info    : Function properties for _Z19dmm_gpu_coalesced_APKfS0_Pfmmm
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 41 registers, 4096 bytes smem, 368 bytes cmem[0]
+ptxas info    : Compiling entry function '_Z13dmm_gpu_naivePKfS0_Pfmmm' for 'sm_35'
+ptxas info    : Function properties for _Z13dmm_gpu_naivePKfS0_Pfmmm
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 16 registers, 368 bytes cmem[0]
+ptxas info    : Compiling entry function '_Z22dmm_gpu_reduced_globalPKfS0_Pfmmm' for 'sm_35'
+ptxas info    : Function properties for _Z22dmm_gpu_reduced_globalPKfS0_Pfmmm
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 29 registers, 8192 bytes smem, 368 bytes cmem[0]
+dmm_main.cu(29): warning: function "check_result" was declared but never referenced
+
+dmm_main.cu(29): warning: function "check_result" was declared but never referenced
+
+ptxas info    : 0 bytes gmem
+ptxas info    : 0 bytes gmem
+/var/spool/torque/mom_priv/jobs/481462.localhost.SC: line 22: b: command not found
+ptxas info    : 0 bytes gmem
+ptxas info    : Compiling entry function '_Z19dmm_gpu_coalesced_APKfS0_Pfmmm' for 'sm_35'
+ptxas info    : Function properties for _Z19dmm_gpu_coalesced_APKfS0_Pfmmm
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 41 registers, 4096 bytes smem, 368 bytes cmem[0]
+ptxas info    : Compiling entry function '_Z13dmm_gpu_naivePKfS0_Pfmmm' for 'sm_35'
+ptxas info    : Function properties for _Z13dmm_gpu_naivePKfS0_Pfmmm
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 16 registers, 368 bytes cmem[0]
+ptxas info    : Compiling entry function '_Z22dmm_gpu_reduced_globalPKfS0_Pfmmm' for 'sm_35'
+ptxas info    : Function properties for _Z22dmm_gpu_reduced_globalPKfS0_Pfmmm
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 29 registers, 8192 bytes smem, 368 bytes cmem[0]
+dmm_main.cu(29): warning: function "check_result" was declared but never referenced
+
+dmm_main.cu(29): warning: function "check_result" was declared but never referenced
+
+ptxas info    : 0 bytes gmem
+ptxas info    : 0 bytes gmem
+/var/spool/torque/mom_priv/jobs/481462.localhost.SC: line 22: b: command not found
+ptxas info    : 0 bytes gmem
+ptxas info    : Compiling entry function '_Z19dmm_gpu_coalesced_APKfS0_Pfmmm' for 'sm_35'
+ptxas info    : Function properties for _Z19dmm_gpu_coalesced_APKfS0_Pfmmm
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 41 registers, 4096 bytes smem, 368 bytes cmem[0]
+ptxas info    : Compiling entry function '_Z13dmm_gpu_naivePKfS0_Pfmmm' for 'sm_35'
+ptxas info    : Function properties for _Z13dmm_gpu_naivePKfS0_Pfmmm
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 16 registers, 368 bytes cmem[0]
+ptxas info    : Compiling entry function '_Z22dmm_gpu_reduced_globalPKfS0_Pfmmm' for 'sm_35'
+ptxas info    : Function properties for _Z22dmm_gpu_reduced_globalPKfS0_Pfmmm
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 29 registers, 8192 bytes smem, 368 bytes cmem[0]
+dmm_main.cu(29): warning: function "check_result" was declared but never referenced
+
+dmm_main.cu(29): warning: function "check_result" was declared but never referenced
+
+ptxas info    : 0 bytes gmem
+ptxas info    : 0 bytes gmem
+/var/spool/torque/mom_priv/jobs/481462.localhost.SC: line 22: b: command not found
+ptxas info    : 0 bytes gmem
+ptxas info    : Compiling entry function '_Z19dmm_gpu_coalesced_APKfS0_Pfmmm' for 'sm_35'
+ptxas info    : Function properties for _Z19dmm_gpu_coalesced_APKfS0_Pfmmm
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 41 registers, 4096 bytes smem, 368 bytes cmem[0]
+ptxas info    : Compiling entry function '_Z13dmm_gpu_naivePKfS0_Pfmmm' for 'sm_35'
+ptxas info    : Function properties for _Z13dmm_gpu_naivePKfS0_Pfmmm
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 16 registers, 368 bytes cmem[0]
+ptxas info    : Compiling entry function '_Z22dmm_gpu_reduced_globalPKfS0_Pfmmm' for 'sm_35'
+ptxas info    : Function properties for _Z22dmm_gpu_reduced_globalPKfS0_Pfmmm
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 29 registers, 8192 bytes smem, 368 bytes cmem[0]
+dmm_main.cu(29): warning: function "check_result" was declared but never referenced
+
+dmm_main.cu(29): warning: function "check_result" was declared but never referenced
+
+ptxas info    : 0 bytes gmem
+ptxas info    : 0 bytes gmem
+/var/spool/torque/mom_priv/jobs/481462.localhost.SC: line 22: b: command not found
+ptxas info    : 0 bytes gmem
+ptxas info    : Compiling entry function '_Z19dmm_gpu_coalesced_APKfS0_Pfmmm' for 'sm_35'
+ptxas info    : Function properties for _Z19dmm_gpu_coalesced_APKfS0_Pfmmm
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 41 registers, 4096 bytes smem, 368 bytes cmem[0]
+ptxas info    : Compiling entry function '_Z13dmm_gpu_naivePKfS0_Pfmmm' for 'sm_35'
+ptxas info    : Function properties for _Z13dmm_gpu_naivePKfS0_Pfmmm
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 16 registers, 368 bytes cmem[0]
+ptxas info    : Compiling entry function '_Z22dmm_gpu_reduced_globalPKfS0_Pfmmm' for 'sm_35'
+ptxas info    : Function properties for _Z22dmm_gpu_reduced_globalPKfS0_Pfmmm
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 29 registers, 8192 bytes smem, 368 bytes cmem[0]
+dmm_main.cu(29): warning: function "check_result" was declared but never referenced
+
+dmm_main.cu(29): warning: function "check_result" was declared but never referenced
+
+ptxas info    : 0 bytes gmem
+ptxas info    : 0 bytes gmem
+/var/spool/torque/mom_priv/jobs/481462.localhost.SC: line 22: b: command not found
+ptxas info    : 0 bytes gmem
+ptxas info    : Compiling entry function '_Z19dmm_gpu_coalesced_APKfS0_Pfmmm' for 'sm_35'
+ptxas info    : Function properties for _Z19dmm_gpu_coalesced_APKfS0_Pfmmm
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 41 registers, 4096 bytes smem, 368 bytes cmem[0]
+ptxas info    : Compiling entry function '_Z13dmm_gpu_naivePKfS0_Pfmmm' for 'sm_35'
+ptxas info    : Function properties for _Z13dmm_gpu_naivePKfS0_Pfmmm
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 16 registers, 368 bytes cmem[0]
+ptxas info    : Compiling entry function '_Z22dmm_gpu_reduced_globalPKfS0_Pfmmm' for 'sm_35'
+ptxas info    : Function properties for _Z22dmm_gpu_reduced_globalPKfS0_Pfmmm
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 29 registers, 8192 bytes smem, 368 bytes cmem[0]
+dmm_main.cu(29): warning: function "check_result" was declared but never referenced
+
+dmm_main.cu(29): warning: function "check_result" was declared but never referenced
+
+ptxas info    : 0 bytes gmem
+ptxas info    : 0 bytes gmem
+/var/spool/torque/mom_priv/jobs/481462.localhost.SC: line 22: b: command not found
+ptxas info    : 0 bytes gmem
+ptxas info    : Compiling entry function '_Z19dmm_gpu_coalesced_APKfS0_Pfmmm' for 'sm_35'
+ptxas info    : Function properties for _Z19dmm_gpu_coalesced_APKfS0_Pfmmm
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 41 registers, 4096 bytes smem, 368 bytes cmem[0]
+ptxas info    : Compiling entry function '_Z13dmm_gpu_naivePKfS0_Pfmmm' for 'sm_35'
+ptxas info    : Function properties for _Z13dmm_gpu_naivePKfS0_Pfmmm
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 16 registers, 368 bytes cmem[0]
+ptxas info    : Compiling entry function '_Z22dmm_gpu_reduced_globalPKfS0_Pfmmm' for 'sm_35'
+ptxas info    : Function properties for _Z22dmm_gpu_reduced_globalPKfS0_Pfmmm
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 29 registers, 8192 bytes smem, 368 bytes cmem[0]
+dmm_main.cu(29): warning: function "check_result" was declared but never referenced
+
+dmm_main.cu(29): warning: function "check_result" was declared but never referenced
+
+ptxas info    : 0 bytes gmem
+ptxas info    : 0 bytes gmem
+/var/spool/torque/mom_priv/jobs/481462.localhost.SC: line 22: b: command not found
+ptxas info    : 0 bytes gmem
+ptxas info    : Compiling entry function '_Z19dmm_gpu_coalesced_APKfS0_Pfmmm' for 'sm_35'
+ptxas info    : Function properties for _Z19dmm_gpu_coalesced_APKfS0_Pfmmm
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 41 registers, 4096 bytes smem, 368 bytes cmem[0]
+ptxas info    : Compiling entry function '_Z13dmm_gpu_naivePKfS0_Pfmmm' for 'sm_35'
+ptxas info    : Function properties for _Z13dmm_gpu_naivePKfS0_Pfmmm
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 16 registers, 368 bytes cmem[0]
+ptxas info    : Compiling entry function '_Z22dmm_gpu_reduced_globalPKfS0_Pfmmm' for 'sm_35'
+ptxas info    : Function properties for _Z22dmm_gpu_reduced_globalPKfS0_Pfmmm
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 29 registers, 8192 bytes smem, 368 bytes cmem[0]
+dmm_main.cu(29): warning: function "check_result" was declared but never referenced
+
+dmm_main.cu(29): warning: function "check_result" was declared but never referenced
+
+ptxas info    : 0 bytes gmem
+ptxas info    : 0 bytes gmem
+/var/spool/torque/mom_priv/jobs/481462.localhost.SC: line 22: b: command not found
+ptxas info    : 0 bytes gmem
+ptxas info    : Compiling entry function '_Z19dmm_gpu_coalesced_APKfS0_Pfmmm' for 'sm_35'
+ptxas info    : Function properties for _Z19dmm_gpu_coalesced_APKfS0_Pfmmm
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 41 registers, 4096 bytes smem, 368 bytes cmem[0]
+ptxas info    : Compiling entry function '_Z13dmm_gpu_naivePKfS0_Pfmmm' for 'sm_35'
+ptxas info    : Function properties for _Z13dmm_gpu_naivePKfS0_Pfmmm
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 16 registers, 368 bytes cmem[0]
+ptxas info    : Compiling entry function '_Z22dmm_gpu_reduced_globalPKfS0_Pfmmm' for 'sm_35'
+ptxas info    : Function properties for _Z22dmm_gpu_reduced_globalPKfS0_Pfmmm
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 29 registers, 8192 bytes smem, 368 bytes cmem[0]
+dmm_main.cu(29): warning: function "check_result" was declared but never referenced
+
+dmm_main.cu(29): warning: function "check_result" was declared but never referenced
+
+ptxas info    : 0 bytes gmem
+ptxas info    : 0 bytes gmem
+/var/spool/torque/mom_priv/jobs/481462.localhost.SC: line 22: b: command not found
+ptxas info    : 0 bytes gmem
+ptxas info    : Compiling entry function '_Z19dmm_gpu_coalesced_APKfS0_Pfmmm' for 'sm_35'
+ptxas info    : Function properties for _Z19dmm_gpu_coalesced_APKfS0_Pfmmm
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 41 registers, 4096 bytes smem, 368 bytes cmem[0]
+ptxas info    : Compiling entry function '_Z13dmm_gpu_naivePKfS0_Pfmmm' for 'sm_35'
+ptxas info    : Function properties for _Z13dmm_gpu_naivePKfS0_Pfmmm
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 16 registers, 368 bytes cmem[0]
+ptxas info    : Compiling entry function '_Z22dmm_gpu_reduced_globalPKfS0_Pfmmm' for 'sm_35'
+ptxas info    : Function properties for _Z22dmm_gpu_reduced_globalPKfS0_Pfmmm
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 29 registers, 8192 bytes smem, 368 bytes cmem[0]
+dmm_main.cu(29): warning: function "check_result" was declared but never referenced
+
+dmm_main.cu(29): warning: function "check_result" was declared but never referenced
+
+ptxas info    : 0 bytes gmem
+ptxas info    : 0 bytes gmem
+/var/spool/torque/mom_priv/jobs/481462.localhost.SC: line 22: b: command not found
+ptxas info    : 0 bytes gmem
+ptxas info    : Compiling entry function '_Z19dmm_gpu_coalesced_APKfS0_Pfmmm' for 'sm_35'
+ptxas info    : Function properties for _Z19dmm_gpu_coalesced_APKfS0_Pfmmm
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 41 registers, 4096 bytes smem, 368 bytes cmem[0]
+ptxas info    : Compiling entry function '_Z13dmm_gpu_naivePKfS0_Pfmmm' for 'sm_35'
+ptxas info    : Function properties for _Z13dmm_gpu_naivePKfS0_Pfmmm
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 16 registers, 368 bytes cmem[0]
+ptxas info    : Compiling entry function '_Z22dmm_gpu_reduced_globalPKfS0_Pfmmm' for 'sm_35'
+ptxas info    : Function properties for _Z22dmm_gpu_reduced_globalPKfS0_Pfmmm
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 29 registers, 8192 bytes smem, 368 bytes cmem[0]
+dmm_main.cu(29): warning: function "check_result" was declared but never referenced
+
+dmm_main.cu(29): warning: function "check_result" was declared but never referenced
+
+ptxas info    : 0 bytes gmem
+ptxas info    : 0 bytes gmem
+/var/spool/torque/mom_priv/jobs/481462.localhost.SC: line 22: b: command not found
+ptxas info    : 0 bytes gmem
+ptxas info    : Compiling entry function '_Z19dmm_gpu_coalesced_APKfS0_Pfmmm' for 'sm_35'
+ptxas info    : Function properties for _Z19dmm_gpu_coalesced_APKfS0_Pfmmm
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 41 registers, 4096 bytes smem, 368 bytes cmem[0]
+ptxas info    : Compiling entry function '_Z13dmm_gpu_naivePKfS0_Pfmmm' for 'sm_35'
+ptxas info    : Function properties for _Z13dmm_gpu_naivePKfS0_Pfmmm
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 16 registers, 368 bytes cmem[0]
+ptxas info    : Compiling entry function '_Z22dmm_gpu_reduced_globalPKfS0_Pfmmm' for 'sm_35'
+ptxas info    : Function properties for _Z22dmm_gpu_reduced_globalPKfS0_Pfmmm
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 29 registers, 8192 bytes smem, 368 bytes cmem[0]
+dmm_main.cu(29): warning: function "check_result" was declared but never referenced
+
+dmm_main.cu(29): warning: function "check_result" was declared but never referenced
+
+ptxas info    : 0 bytes gmem
+ptxas info    : 0 bytes gmem
