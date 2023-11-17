@@ -18,3 +18,6 @@ For more information one can look in the Report, contained in each Lab file, whe
 - ## Lab5
   Synchronization Issues in Modern Multicore Systems
   
+## Contributors
+- [Stela Zhara](https://github.com/stelazr)
+- [Katerina Liagka](https://github.com/LiagkaAikaterini)
