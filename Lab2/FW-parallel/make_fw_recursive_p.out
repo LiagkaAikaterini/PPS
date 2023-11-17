@@ -1,0 +1,1 @@
+gcc util.o fw_recursive_parallel.c -o fw_recursive_parallel -Wall -O3 -fopenmp -Wno-unused-variable
