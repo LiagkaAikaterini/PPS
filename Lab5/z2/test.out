@@ -1,0 +1,24 @@
+test_pthread
+1 threads: CORRECT
+2 threads: CORRECT
+4 threads: CORRECT
+8 threads: CORRECT
+16 threads: CORRECT
+32 threads: CORRECT
+64 threads: CORRECT
+test_ttas
+1 threads: CORRECT
+2 threads: CORRECT
+4 threads: CORRECT
+8 threads: CORRECT
+16 threads: CORRECT
+32 threads: CORRECT
+64 threads: CORRECT
+test_array
+1 threads: CORRECT
+2 threads: CORRECT
+4 threads: CORRECT
+8 threads: CORRECT
+16 threads: CORRECT
+32 threads: CORRECT
+64 threads: CORRECT
