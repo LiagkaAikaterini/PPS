@@ -1,0 +1,11 @@
+Jacobi_mpi.c: In function 'main':
+Jacobi_mpi.c:359:9: warning: 'scattercounts' may be used uninitialized in this function [-Wmaybe-uninitialized]
+         MPI_Gatherv(&u_current[1][1], 1, local_block, u_start, scattercounts, scatteroffset, global_block, 0, MPI_COMM_WORLD);
+         ^
+Jacobi_mpi.c:359:9: warning: 'scatteroffset' may be used uninitialized in this function [-Wmaybe-uninitialized]
+Jacobi_mpi.c:146:9: warning: 'u_start' may be used uninitialized in this function [-Wmaybe-uninitialized]
+         MPI_Scatterv(u_start, scattercounts, scatteroffset, global_block, &u_current[1][1], 1, local_block, 0, MPI_COMM_WORLD);
+         ^
+Jacobi_mpi.c:153:9: warning: 'U' may be used uninitialized in this function [-Wmaybe-uninitialized]
+         free2d(U);
+         ^

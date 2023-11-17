@@ -1,0 +1,81 @@
+Array Length 2048
+Iteration 1
+Jacobi X 2048 Y 2048 Px 1 Py 1 Iter 256 ComputationTime 8.418857 TotalTime 8.419226 midpoint 0.000000
+Jacobi X 2048 Y 2048 Px 2 Py 1 Iter 256 ComputationTime 4.217458 TotalTime 4.319371 midpoint 0.000000
+Jacobi X 2048 Y 2048 Px 2 Py 2 Iter 256 ComputationTime 2.110486 TotalTime 2.362993 midpoint 0.000000
+Jacobi X 2048 Y 2048 Px 4 Py 2 Iter 256 ComputationTime 1.062362 TotalTime 1.388585 midpoint 0.000000
+Jacobi X 2048 Y 2048 Px 4 Py 4 Iter 256 ComputationTime 0.831262 TotalTime 1.138991 midpoint 0.000000
+Jacobi X 2048 Y 2048 Px 8 Py 4 Iter 256 ComputationTime 0.401842 TotalTime 0.718245 midpoint 0.000000
+Jacobi X 2048 Y 2048 Px 8 Py 8 Iter 256 ComputationTime 0.058004 TotalTime 0.394862 midpoint 0.000000
+Array Length 2048
+Iteration 2
+Jacobi X 2048 Y 2048 Px 1 Py 1 Iter 256 ComputationTime 8.418937 TotalTime 8.419238 midpoint 0.000000
+Jacobi X 2048 Y 2048 Px 2 Py 1 Iter 256 ComputationTime 4.216201 TotalTime 4.321205 midpoint 0.000000
+Jacobi X 2048 Y 2048 Px 2 Py 2 Iter 256 ComputationTime 2.110029 TotalTime 2.363144 midpoint 0.000000
+Jacobi X 2048 Y 2048 Px 4 Py 2 Iter 256 ComputationTime 1.061426 TotalTime 1.383697 midpoint 0.000000
+Jacobi X 2048 Y 2048 Px 4 Py 4 Iter 256 ComputationTime 0.837255 TotalTime 1.141507 midpoint 0.000000
+Jacobi X 2048 Y 2048 Px 8 Py 4 Iter 256 ComputationTime 0.359076 TotalTime 0.686630 midpoint 0.000000
+Jacobi X 2048 Y 2048 Px 8 Py 8 Iter 256 ComputationTime 0.053876 TotalTime 0.387039 midpoint 0.000000
+Array Length 2048
+Iteration 3
+Jacobi X 2048 Y 2048 Px 1 Py 1 Iter 256 ComputationTime 8.409469 TotalTime 8.409785 midpoint 0.000000
+Jacobi X 2048 Y 2048 Px 2 Py 1 Iter 256 ComputationTime 4.217420 TotalTime 4.322950 midpoint 0.000000
+Jacobi X 2048 Y 2048 Px 2 Py 2 Iter 256 ComputationTime 2.110945 TotalTime 2.363055 midpoint 0.000000
+Jacobi X 2048 Y 2048 Px 4 Py 2 Iter 256 ComputationTime 1.060901 TotalTime 1.384543 midpoint 0.000000
+Jacobi X 2048 Y 2048 Px 4 Py 4 Iter 256 ComputationTime 0.833809 TotalTime 1.138127 midpoint 0.000000
+Jacobi X 2048 Y 2048 Px 8 Py 4 Iter 256 ComputationTime 0.378936 TotalTime 0.701469 midpoint 0.000000
+Jacobi X 2048 Y 2048 Px 8 Py 8 Iter 256 ComputationTime 0.054829 TotalTime 0.389482 midpoint 0.000000
+Array Length 4096
+Iteration 1
+Jacobi X 4096 Y 4096 Px 1 Py 1 Iter 256 ComputationTime 33.609949 TotalTime 33.610413 midpoint 0.000000
+Jacobi X 4096 Y 4096 Px 2 Py 1 Iter 256 ComputationTime 16.837441 TotalTime 16.976411 midpoint 0.000000
+Jacobi X 4096 Y 4096 Px 2 Py 2 Iter 256 ComputationTime 8.440272 TotalTime 9.166839 midpoint 0.000000
+Jacobi X 4096 Y 4096 Px 4 Py 2 Iter 256 ComputationTime 4.318512 TotalTime 5.291469 midpoint 0.000000
+Jacobi X 4096 Y 4096 Px 4 Py 4 Iter 256 ComputationTime 3.682122 TotalTime 4.780015 midpoint 0.000000
+Jacobi X 4096 Y 4096 Px 8 Py 4 Iter 256 ComputationTime 3.583477 TotalTime 4.806318 midpoint 0.000000
+Jacobi X 4096 Y 4096 Px 8 Py 8 Iter 256 ComputationTime 3.258476 TotalTime 4.445470 midpoint 0.000000
+Array Length 4096
+Iteration 2
+Jacobi X 4096 Y 4096 Px 1 Py 1 Iter 256 ComputationTime 33.625148 TotalTime 33.625565 midpoint 0.000000
+Jacobi X 4096 Y 4096 Px 2 Py 1 Iter 256 ComputationTime 16.842739 TotalTime 16.982234 midpoint 0.000000
+Jacobi X 4096 Y 4096 Px 2 Py 2 Iter 256 ComputationTime 8.442541 TotalTime 9.171263 midpoint 0.000000
+Jacobi X 4096 Y 4096 Px 4 Py 2 Iter 256 ComputationTime 4.315587 TotalTime 5.288233 midpoint 0.000000
+Jacobi X 4096 Y 4096 Px 4 Py 4 Iter 256 ComputationTime 3.683258 TotalTime 4.786673 midpoint 0.000000
+Jacobi X 4096 Y 4096 Px 8 Py 4 Iter 256 ComputationTime 3.584996 TotalTime 4.805625 midpoint 0.000000
+Jacobi X 4096 Y 4096 Px 8 Py 8 Iter 256 ComputationTime 3.237166 TotalTime 4.445215 midpoint 0.000000
+Array Length 4096
+Iteration 3
+Jacobi X 4096 Y 4096 Px 1 Py 1 Iter 256 ComputationTime 33.614035 TotalTime 33.614482 midpoint 0.000000
+Jacobi X 4096 Y 4096 Px 2 Py 1 Iter 256 ComputationTime 16.846153 TotalTime 16.980504 midpoint 0.000000
+Jacobi X 4096 Y 4096 Px 2 Py 2 Iter 256 ComputationTime 8.436393 TotalTime 9.165675 midpoint 0.000000
+Jacobi X 4096 Y 4096 Px 4 Py 2 Iter 256 ComputationTime 4.316087 TotalTime 5.290284 midpoint 0.000000
+Jacobi X 4096 Y 4096 Px 4 Py 4 Iter 256 ComputationTime 3.705177 TotalTime 4.783400 midpoint 0.000000
+Jacobi X 4096 Y 4096 Px 8 Py 4 Iter 256 ComputationTime 3.586187 TotalTime 4.806788 midpoint 0.000000
+Jacobi X 4096 Y 4096 Px 8 Py 8 Iter 256 ComputationTime 3.303675 TotalTime 4.441992 midpoint 0.000000
+Array Length 6144
+Iteration 1
+Jacobi X 6144 Y 6144 Px 1 Py 1 Iter 256 ComputationTime 75.699642 TotalTime 75.700104 midpoint 0.000000
+Jacobi X 6144 Y 6144 Px 2 Py 1 Iter 256 ComputationTime 37.895861 TotalTime 38.095205 midpoint 0.000000
+Jacobi X 6144 Y 6144 Px 2 Py 2 Iter 256 ComputationTime 18.988424 TotalTime 20.481296 midpoint 0.000000
+Jacobi X 6144 Y 6144 Px 4 Py 2 Iter 256 ComputationTime 9.724025 TotalTime 11.772051 midpoint 0.000000
+Jacobi X 6144 Y 6144 Px 4 Py 4 Iter 256 ComputationTime 8.364913 TotalTime 10.699526 midpoint 0.000000
+Jacobi X 6144 Y 6144 Px 8 Py 4 Iter 256 ComputationTime 8.292856 TotalTime 10.806696 midpoint 0.000000
+Jacobi X 6144 Y 6144 Px 8 Py 8 Iter 256 ComputationTime 8.153739 TotalTime 10.693029 midpoint 0.000000
+Array Length 6144
+Iteration 2
+Jacobi X 6144 Y 6144 Px 1 Py 1 Iter 256 ComputationTime 75.705112 TotalTime 75.705553 midpoint 0.000000
+Jacobi X 6144 Y 6144 Px 2 Py 1 Iter 256 ComputationTime 37.902098 TotalTime 38.088573 midpoint 0.000000
+Jacobi X 6144 Y 6144 Px 2 Py 2 Iter 256 ComputationTime 18.983467 TotalTime 20.482184 midpoint 0.000000
+Jacobi X 6144 Y 6144 Px 4 Py 2 Iter 256 ComputationTime 9.720853 TotalTime 11.769611 midpoint 0.000000
+Jacobi X 6144 Y 6144 Px 4 Py 4 Iter 256 ComputationTime 8.354265 TotalTime 10.689493 midpoint 0.000000
+Jacobi X 6144 Y 6144 Px 8 Py 4 Iter 256 ComputationTime 8.293950 TotalTime 10.811277 midpoint 0.000000
+Jacobi X 6144 Y 6144 Px 8 Py 8 Iter 256 ComputationTime 8.186471 TotalTime 10.709049 midpoint 0.000000
+Array Length 6144
+Iteration 3
+Jacobi X 6144 Y 6144 Px 1 Py 1 Iter 256 ComputationTime 75.607451 TotalTime 75.607903 midpoint 0.000000
+Jacobi X 6144 Y 6144 Px 2 Py 1 Iter 256 ComputationTime 37.902824 TotalTime 38.086408 midpoint 0.000000
+Jacobi X 6144 Y 6144 Px 2 Py 2 Iter 256 ComputationTime 18.978331 TotalTime 20.476513 midpoint 0.000000
+Jacobi X 6144 Y 6144 Px 4 Py 2 Iter 256 ComputationTime 9.730029 TotalTime 11.777597 midpoint 0.000000
+Jacobi X 6144 Y 6144 Px 4 Py 4 Iter 256 ComputationTime 8.350394 TotalTime 10.684499 midpoint 0.000000
+Jacobi X 6144 Y 6144 Px 8 Py 4 Iter 256 ComputationTime 8.289911 TotalTime 11.522545 midpoint 0.000000
+Jacobi X 6144 Y 6144 Px 8 Py 8 Iter 256 ComputationTime 8.254609 TotalTime 10.690688 midpoint 0.000000

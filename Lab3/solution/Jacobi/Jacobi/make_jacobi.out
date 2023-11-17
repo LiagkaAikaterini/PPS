@@ -1,0 +1,1 @@
+mpicc -O3 -lm -Wall -DPRINT_RESULTS -DTEST_CONV Jacobi_mpi.c utils.c -o jacobi
